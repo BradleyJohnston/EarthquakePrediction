@@ -161,6 +161,7 @@ eqCusPlot %>%
   geom_path()
 
 # Perhaps 5 clusters is the right way to go. The plot isn't as much of an elbow as it is a lightning bolt. 
+set.seed(52296)
 myCluster_5 <- kmeans(eq_cleanscale, 5)
 # Summary of the clusters
 summary(myCluster_5)
@@ -170,10 +171,6 @@ myCluster_5$centers
 myCluster_5$cluster
 clusplot(eq_cleanscale, myCluster_5$cluster, color=TRUE, shade=TRUE, labels=2, lines=0)
 
-# Cluster 1: longitude, mag, rms, eq_clean_mb
-# Cluster 2: latitude, nst, magError
-# Cluster 3: depth, mag, rms, horizontalError, magNst, eq_clean_mb
-# Cluster 4: latitude, gap, eq_clean
-# Cluster 5: mag, dmin, rms, horizontalError, eq_clean_mb
+
 
 

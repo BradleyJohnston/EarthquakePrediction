@@ -1,0 +1,671 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-11T16:35:52.790Z,19.8638333,-155.3561667,32.56,4.93,ml,10,102,0.1157,0.07,hv,hv71228166,2019-12-03T18:53:23.040Z,"26km W of Pepeekeo, Hawaii",earthquake,1.02,2.52,0.189,55,reviewed,hv,hv
+2019-08-22T14:33:30.360Z,18.8383333,-155.2365,46.04,4.18,ml,66,260,0.3809,0.1,hv,hv71101342,2019-11-08T22:13:40.040Z,"48km SSE of Pahala, Hawaii",earthquake,0.51,0.83,0.149,52,reviewed,hv,hv
+2019-08-12T14:41:56.840Z,19.8073333,-155.0196667,41.99,4.52,ml,67,195,,0.13,hv,hv71084577,2019-11-11T17:34:19.388Z,"8km ENE of Papa'ikou, Hawaii",earthquake,0.42,0.53,0.176,44,reviewed,hv,hv
+2019-04-28T03:26:20.530Z,19.3316667,-155.1055,6.88,4.24,ml,63,152,0.05072,0.1,hv,hv70927626,2019-07-13T18:42:46.040Z,"17km SE of Volcano, Hawaii",earthquake,0.3,0.25,0.189,54,reviewed,hv,hv
+2019-04-14T03:09:02.680Z,19.742,-155.7905,13.33,5.34,ml,78,66,,0.17,hv,hv70907436,2019-11-11T17:27:47.572Z,"20km E of Kalaoa, Hawaii",earthquake,0.22,0.38,0.152,52,reviewed,hv,hv
+2019-03-13T10:55:13.370Z,19.3258333,-155.2005,6.97,5.54,ml,75,88,,0.12,hv,hv70863117,2019-06-01T21:24:06.040Z,"12km SSE of Volcano, Hawaii",earthquake,0.21,0.22,0.194,36,reviewed,hv,hv
+2019-02-07T19:06:58.010Z,18.4768333,-156.2968333,26.83,4.62,ml,75,308,,0.12,hv,hv70802976,2019-04-25T15:31:51.040Z,"85km SW of Hawaiian Ocean View, Hawaii",earthquake,0.72,1.6,0.159,53,reviewed,hv,hv
+2018-08-09T16:50:32.220Z,19.3703333,-155.0285,8.44,4.41,ml,23,174,0.05435,0.08,hv,hv70532117,2018-10-17T18:11:47.040Z,"15km SW of Leilani Estates, Hawaii",earthquake,0.56,0.61,0.158,35,reviewed,hv,hv
+2018-08-02T21:55:12.060Z,19.4111667,-155.2831667,0.55,5.3,mw,34,27,0.006521,0.1,hv,hv70513677,2018-11-01T00:53:52.770Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.11,,22,reviewed,hv,hv
+2018-07-31T17:59:46.000Z,19.4103333,-155.2856667,0.57,5.3,mw,36,23,0.007439,0.12,hv,hv70503837,2018-11-01T01:08:32.560Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.16,0.11,,9,reviewed,hv,hv
+2018-07-31T10:29:59.750Z,19.4018333,-155.2895,0.42,4.11,ml,26,43,0.011,0.11,hv,hv70502242,2018-10-16T15:34:09.040Z,"6km WSW of Volcano, Hawaii",earthquake,0.13,0.13,0.174,11,reviewed,hv,hv
+2018-07-30T08:03:03.210Z,19.3508333,-155.1226667,7.38,4.07,ml,44,125,0.03395,0.1,hv,hv70496917,2018-10-16T15:34:09.040Z,"14km SE of Volcano, Hawaii",earthquake,0.34,0.41,0.197,55,reviewed,hv,hv
+2018-07-29T22:10:25.570Z,19.4063333,-155.2823333,1.29,5.3,mw,39,24,0.01139,0.12,hv,hv70495012,2018-11-01T01:31:30.280Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.16,0.12,,22,reviewed,hv,hv
+2018-07-28T12:37:25.390Z,19.3968333,-155.2718333,0.21,5.3,mw,37,40,0.002246,0.1,hv,hv70488497,2018-11-06T01:26:01.490Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.1,0.1,,21,reviewed,hv,hv
+2018-07-26T22:09:11.280Z,19.3976667,-155.2693333,0.18,5.3,mw,38,49,0.003168,0.13,hv,hv70481092,2018-11-06T01:31:21.680Z,"4km SW of Volcano, Hawaii",volcanic eruption,0.16,0.1,,20,reviewed,hv,hv
+2018-07-24T16:41:10.140Z,19.4141667,-155.2821667,0.45,5.3,mw,36,35,0.003925,0.14,hv,hv70470502,2018-11-06T01:37:57.440Z,"4km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.1,,14,reviewed,hv,hv
+2018-07-23T06:53:38.820Z,19.4101667,-155.2833333,0.54,5.3,mw,35,26,0.007491,0.09,hv,hv70463607,2018-11-06T01:41:35.630Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.09,,27,reviewed,hv,hv
+2018-07-21T19:43:28.660Z,19.4018333,-155.288,0.07,5.3,mw,37,34,0.01229,0.12,hv,hv70456682,2018-11-06T01:49:15.460Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.15,,21,reviewed,hv,hv
+2018-07-20T02:33:01.690Z,19.4103333,-155.2816667,0.85,5.3,mw,33,27,0.007643,0.11,hv,hv70448162,2018-11-06T02:03:43.320Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.11,0.08,,47,reviewed,hv,hv
+2018-07-18T11:28:04.040Z,19.3961667,-155.2748333,0.37,5.3,mw,38,41,0.001376,0.13,hv,hv70440367,2018-11-07T21:56:20.950Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.15,0.11,,79,reviewed,hv,hv
+2018-07-16T21:42:35.500Z,19.3995,-155.2775,0.24,5.3,mw,31,39,0.005491,0.1,hv,hv70432927,2018-11-07T22:26:42.400Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.12,0.12,,22,reviewed,hv,hv
+2018-07-16T21:42:35.470Z,19.3993333,-155.2765,0.37,4.04,ml,27,44,0.004778,0.07,hv,hv70432922,2018-07-17T01:57:40.238Z,"5km SW of Volcano, Hawaii",earthquake,0.13,0.15,0.178,45,reviewed,hv,hv
+2018-07-15T13:26:05.130Z,19.4036667,-155.2901667,1.35,5.3,mw,20,46,0.009741,0.15,hv,hv70426597,2018-12-04T08:15:07.750Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.24,0.25,,16,reviewed,hv,hv
+2018-07-14T05:08:03.680Z,19.3995,-155.2768333,-0.21,5.3,mw,23,45,0.005095,0.15,hv,hv70419872,2018-12-04T08:35:35.530Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.12,0.13,,17,reviewed,hv,hv
+2018-07-14T04:13:33.600Z,19.4193333,-155.2768333,0.79,4.36,ml,31,46,0.005444,0.06,hv,hv70419657,2018-10-02T16:40:40.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.16,0.12,0.09,8,reviewed,hv,hv
+2018-07-13T00:42:27.110Z,19.3993333,-155.2766667,0.27,5.3,mw,36,39,0.004869,0.11,hv,hv70414347,2018-10-30T02:52:31.400Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.11,0.09,,33,reviewed,hv,hv
+2018-07-11T15:45:53.220Z,19.3993333,-155.2886667,-0.5,5.3,mw,33,38,0.01056,0.19,hv,hv70398031,2018-10-30T02:43:08.120Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.16,,6,reviewed,hv,hv
+2018-07-09T19:20:46.280Z,19.4001667,-155.2896667,-0.47,5.3,mw,39,39,0.0109,0.14,hv,hv70388861,2018-10-02T16:40:31.040Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.11,0.16,,7,reviewed,hv,hv
+2018-07-08T12:54:50.330Z,19.402,-155.2911667,-1.01,5.3,mw,34,42,0.009526,0.17,hv,hv70382556,2018-11-17T01:58:09.270Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.17,,20,reviewed,hv,hv
+2018-07-07T04:04:37.630Z,19.4026667,-155.2895,0.23,5.3,mw,36,38,0.01067,0.14,hv,hv70375466,2018-09-27T14:03:36.040Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.16,0.16,,23,reviewed,hv,hv
+2018-07-05T23:20:04.690Z,19.4108333,-155.2828333,0.46,5.2,mw,30,50,0.006897,0.08,hv,hv70370031,2018-09-27T14:03:36.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.12,,8,reviewed,hv,hv
+2018-07-04T20:19:10.470Z,19.398,-155.2716667,0.41,5.3,mw,38,43,0.003215,0.1,hv,hv70364281,2018-09-27T14:03:36.040Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.13,0.12,,8,reviewed,hv,hv
+2018-07-03T12:17:03.810Z,19.416,-155.2746667,-0.12,5.3,mw,24,32,0.009053,0.13,hv,hv70357811,2018-09-27T14:03:36.040Z,"4km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.22,,8,reviewed,hv,hv
+2018-07-02T11:24:46.190Z,19.4031667,-155.2926667,-0.36,5.3,mw,21,67,0.007733,0.17,hv,hv70352881,2018-12-04T03:48:00.690Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.18,,80,reviewed,hv,hv
+2018-07-01T00:51:13.010Z,19.412,-155.2815,0.3,5.3,mw,36,30,0.006143,0.1,hv,hv70345951,2018-09-21T16:25:54.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.11,,23,reviewed,hv,hv
+2018-06-30T13:10:41.760Z,19.4183333,-155.2751667,0.45,4.18,ml,27,39,0.006787,0.1,hv,hv70343426,2018-09-21T16:25:54.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.2,0.13,0.311,10,reviewed,hv,hv
+2018-06-30T07:06:10.110Z,19.418,-155.2768333,0.8,4.11,ml,30,50,0.006762,0.1,hv,hv70342106,2018-09-21T16:25:53.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.16,0.12,0.106,10,reviewed,hv,hv
+2018-06-29T17:50:46.270Z,19.4136667,-155.2805,0.25,5.2,mw,35,46,0.005227,0.12,hv,hv70339416,2018-09-21T16:25:53.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,17,reviewed,hv,hv
+2018-06-29T12:47:45.210Z,19.4166667,-155.2765,0.87,4.07,ml,33,40,0.007238,0.11,hv,hv70338351,2018-09-21T16:25:53.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.2,0.12,0.136,11,reviewed,hv,hv
+2018-06-28T14:48:50.400Z,19.4126667,-155.2858333,0.23,5.3,mw,35,25,0.005232,0.15,hv,hv70333906,2018-09-21T16:25:52.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,28,reviewed,hv,hv
+2018-06-28T07:44:42.650Z,19.417,-155.2781667,0.78,4.07,ml,23,56,0.005636,0.05,hv,hv70332436,2018-09-21T16:25:52.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.15,0.13,0.103,10,reviewed,hv,hv
+2018-06-28T04:02:47.400Z,19.4186667,-155.2791667,0.42,4.03,ml,25,51,0.004759,0.09,hv,hv70331641,2018-09-21T16:25:52.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.14,0.11,0.072,5,reviewed,hv,hv
+2018-06-27T08:40:40.310Z,19.4105,-155.28,0.53,5.3,mw,37,33,0.008106,0.1,hv,hv70327791,2018-09-21T16:25:51.040Z,"4km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,5,reviewed,hv,hv
+2018-06-26T03:02:44.720Z,19.4115,-155.283,0.72,5.2,mw,38,24,0.006217,0.1,hv,hv70321551,2018-09-21T16:25:50.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.1,,47,reviewed,hv,hv
+2018-06-25T19:42:07.880Z,19.398,-155.2716667,0.58,4.28,ml,18,62,0.003215,0.09,hv,hv70320041,2018-09-21T16:25:49.040Z,"5km SW of Volcano, Hawaii",earthquake,0.17,0.32,0.184,3,reviewed,hv,hv
+2018-06-25T02:12:24.200Z,19.411,-155.2833333,0.82,5.2,mw,37,25,0.006666,0.11,hv,hv70316456,2018-12-04T01:16:09.070Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.11,,47,reviewed,hv,hv
+2018-06-24T02:34:36.270Z,19.4116667,-155.285,0.03,5.2,mw,38,25,0.006025,0.13,hv,hv70311776,2018-09-19T15:15:57.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.14,,24,reviewed,hv,hv
+2018-06-23T04:52:16.210Z,19.3983333,-155.2726667,0.28,5.3,mw,39,41,0.00309,0.11,hv,hv70307431,2018-09-19T15:15:56.040Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.13,0.11,,23,reviewed,hv,hv
+2018-06-21T23:12:59.370Z,19.4115,-155.2833333,0.46,5.4,mw,38,24,0.006172,0.09,hv,hv70301461,2018-09-19T15:15:53.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.09,,9,reviewed,hv,hv
+2018-06-21T04:31:56.690Z,19.4006667,-155.2746667,1.24,4.14,ml,27,39,0.005359,0.09,hv,hv70297401,2018-09-19T15:15:51.040Z,"5km SW of Volcano, Hawaii",earthquake,0.19,0.21,0.107,8,reviewed,hv,hv
+2018-06-20T14:22:23.430Z,19.4143333,-155.2861667,-0.02,5.3,mw,33,30,0.003845,0.12,hv,hv70294636,2018-09-19T15:15:51.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.12,,29,reviewed,hv,hv
+2018-06-20T11:38:50.120Z,19.4,-155.2742,0.47,4.1,mb,,53,0.005,0.54,us,us1000ewex,2018-09-19T15:15:50.040Z,"5km SW of Volcano, Hawaii",earthquake,0.7,5.3,0.186,8,reviewed,hv,us
+2018-06-20T00:24:19.920Z,19.3296667,-155.1046667,6.84,4.56,ml,73,148,0.0493,0.12,hv,hv70291696,2018-09-19T15:15:49.040Z,"17km SE of Volcano, Hawaii",earthquake,0.31,0.24,0.145,44,reviewed,hv,hv
+2018-06-19T15:05:56.010Z,19.4106667,-155.271,-0.93,4.15,ml,20,44,0.01059,0.2,hv,hv70291726,2018-09-27T01:02:36.730Z,"4km WSW of Volcano, Hawaii",earthquake,0.13,0.22,0.142,26,reviewed,hv,hv
+2018-06-19T15:05:34.000Z,19.4106667,-155.2816667,0.49,5.3,mw,38,27,0.007327,0.09,hv,hv70289831,2018-09-19T15:15:49.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.1,,22,reviewed,hv,hv
+2018-06-18T16:12:48.500Z,19.4113333,-155.2835,0.33,5.3,mw,35,27,0.006321,0.09,hv,hv70285321,2018-09-19T15:15:48.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.11,0.1,,12,reviewed,hv,hv
+2018-06-18T13:39:04.560Z,19.4013333,-155.2778333,1.42,4.09,ml,21,44,0.007131,0.08,hv,hv70284766,2018-09-19T15:15:48.040Z,"5km SW of Volcano, Hawaii",earthquake,0.19,0.26,0.085,6,reviewed,hv,hv
+2018-06-17T16:26:13.090Z,19.4103333,-155.2813333,0.8,5.3,mw,38,28,0.007743,0.1,hv,hv70280586,2018-09-07T17:47:08.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.15,0.12,,7,reviewed,hv,hv
+2018-06-17T14:20:12.390Z,19.4016667,-155.2748333,1.16,4.21,ml,18,49,0.01751,0.06,hv,hv70280141,2018-09-07T17:47:08.040Z,"5km SW of Volcano, Hawaii",earthquake,0.2,0.3,0.041,4,reviewed,hv,hv
+2018-06-17T11:28:22.740Z,19.3988333,-155.2728333,0.29,4.02,ml,21,59,0.003531,0.05,hv,hv70279521,2018-09-07T17:47:07.040Z,"5km SW of Volcano, Hawaii",earthquake,0.14,0.18,0.2,7,reviewed,hv,hv
+2018-06-16T20:18:17.660Z,19.412,-155.2858333,0.26,5.3,mw,35,25,0.005866,0.1,hv,hv70276646,2018-09-14T23:31:48.802Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.1,,13,reviewed,hv,hv
+2018-06-16T18:03:59.240Z,19.4025,-155.2678333,0.68,4.06,ml,24,55,0.008967,0.06,hv,hv70276171,2018-09-07T17:47:07.040Z,"4km SW of Volcano, Hawaii",earthquake,0.18,0.2,0.158,10,reviewed,hv,hv
+2018-06-15T21:56:39.920Z,19.415,-155.283,0.2,5.3,mw,38,30,0.002843,0.14,hv,hv70272196,2018-09-07T17:47:06.040Z,"4km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.1,,16,reviewed,hv,hv
+2018-06-15T17:04:27.440Z,19.4018333,-155.2731667,1.1,4.09,ml,21,52,0.006447,0.1,hv,hv70271176,2018-09-07T17:47:05.040Z,"4km SW of Volcano, Hawaii",earthquake,0.17,0.21,0.11,7,reviewed,hv,hv
+2018-06-14T13:19:37.120Z,19.4136667,-155.282,0.43,5.3,mw,39,33,0.00444,0.13,hv,hv70265441,2018-09-07T17:47:03.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.12,,20,reviewed,hv,hv
+2018-06-14T11:34:42.560Z,19.4006667,-155.2755,1.23,4.2,ml,32,35,0.005555,0.09,hv,hv70265111,2018-09-07T17:47:04.040Z,"5km SW of Volcano, Hawaii",earthquake,0.16,0.16,0.177,7,reviewed,hv,hv
+2018-06-13T13:39:37.610Z,19.4136667,-155.2816667,0.27,5.3,mw,38,38,0.004589,0.12,hv,hv70260941,2018-09-07T17:47:01.040Z,"4km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.09,,15,reviewed,hv,hv
+2018-06-12T11:52:51.230Z,19.4115,-155.2825,0.72,5.3,mw,38,25,0.006312,0.1,hv,hv70256021,2018-09-07T17:47:00.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,9,reviewed,hv,hv
+2018-06-11T14:43:54.340Z,19.4113333,-155.2788333,0.54,5.3,mw,38,41,0.00802,0.11,hv,hv70262272,2018-09-07T17:46:59.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.12,,13,reviewed,hv,hv
+2018-06-11T10:45:48.830Z,19.4188333,-155.2903333,-0.36,4.12,ml,23,80,0.002267,0.11,hv,hv70261537,2018-09-07T17:46:59.040Z,"5km WSW of Volcano, Hawaii",earthquake,0.18,0.09,0.155,7,reviewed,hv,hv
+2018-06-10T10:51:01.890Z,19.4105,-155.2808333,0.53,5.3,mw,37,34,0.007762,0.09,hv,hv70257117,2018-09-06T01:20:09.770Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.12,,7,reviewed,hv,hv
+2018-06-09T14:48:18.050Z,19.4135,-155.2826667,0.61,5.2,mw,38,29,0.004355,0.09,hv,hv70253332,2018-09-06T01:15:19.200Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,8,reviewed,hv,hv
+2018-06-09T07:37:36.710Z,19.4003333,-155.2763333,0.98,4.2,ml,20,53,0.01464,0.11,hv,hv70251812,2018-08-29T16:36:06.040Z,"5km SW of Volcano, Hawaii",earthquake,0.23,0.31,0.215,8,reviewed,hv,hv
+2018-06-08T12:44:39.650Z,19.4138333,-155.2826667,-0.97,5.2,mw,34,39,0.004041,0.17,hv,hv70248327,2018-08-29T16:35:46.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.16,,10,reviewed,hv,hv
+2018-06-07T02:06:38.640Z,19.4106667,-155.2816667,0.36,5.4,mw,33,27,0.007327,0.11,hv,hv70241807,2018-08-29T16:34:57.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.18,0.11,,18,reviewed,hv,hv
+2018-06-05T14:32:34.450Z,19.4008333,-155.286,-0.83,5.4,mw,28,29,0.01479,0.23,hv,hv70235442,2018-12-04T00:09:10.800Z,"6km WSW of Volcano, Hawaii",volcanic eruption,0.16,0.24,,14,reviewed,hv,hv
+2018-06-04T01:50:48.690Z,19.4105,-155.2825,0.58,5.4,mw,35,26,0.007282,0.1,hv,hv70228857,2018-08-29T16:33:27.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,14,reviewed,hv,hv
+2018-06-01T23:37:15.150Z,19.4003333,-155.2795,0.53,5.4,mw,36,33,0.007414,0.09,hv,hv70219637,2018-08-28T16:30:02.040Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.13,0.1,,19,reviewed,hv,hv
+2018-05-30T20:53:50.830Z,19.4113333,-155.2851667,-0.07,5.4,mw,35,28,0.006376,0.13,hv,hv70210622,2018-08-28T16:28:58.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.14,0.16,,7,reviewed,hv,hv
+2018-05-29T11:56:11.570Z,19.4123333,-155.2828333,-0.27,5.3,mw,38,27,0.005433,0.12,hv,hv70204492,2018-08-28T16:28:21.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.12,0.11,,11,reviewed,hv,hv
+2018-05-29T03:39:36.560Z,19.354,-155.2453333,0.93,4.12,ml,38,62,0.01997,0.1,hv,hv70202927,2018-08-28T16:28:10.040Z,"8km S of Volcano, Hawaii",earthquake,0.17,0.27,0.164,48,reviewed,hv,hv
+2018-05-26T19:34:41.160Z,19.4035,-155.2751667,0.26,4.7,mw,21,55,0.008216,0.12,hv,hv70194587,2018-08-21T21:23:53.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.16,0.13,,5,reviewed,hv,hv
+2018-05-26T10:44:37.620Z,19.4045,-155.278,0.19,4.8,mw,20,57,0.009972,0.23,hv,hv70193362,2018-08-21T21:23:53.040Z,"5km SW of Volcano, Hawaii",volcanic eruption,0.19,0.22,,6,reviewed,hv,hv
+2018-05-26T02:15:52.250Z,19.4085,-155.2753333,0.43,5.1,mw,16,78,0.01231,0.12,hv,hv70195287,2018-08-21T21:23:52.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.19,0.19,,6,reviewed,hv,hv
+2018-05-25T22:43:40.680Z,19.4126667,-155.2811667,0.44,4.11,ml,49,25,0.005687,0.11,hv,hv70191882,2018-08-21T21:23:52.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.13,0.12,0.213,17,reviewed,hv,hv
+2018-05-24T04:43:49.890Z,19.405,-155.281,0.01,4.9,mw,12,77,0.01183,0.11,hv,hv70186227,2018-08-21T21:23:49.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.27,31.61,,6,reviewed,hv,hv
+2018-05-23T07:58:46.290Z,19.405,-155.281,0.01,4.9,mw,13,109,0.006997,0.18,hv,hv70186707,2018-08-21T21:23:48.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.42,31.61,,6,reviewed,hv,hv
+2018-05-22T03:51:11.860Z,19.405,-155.281,0.01,4.9,mw,14,109,0.006997,0.22,hv,hv70180197,2018-08-21T21:23:48.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.42,31.61,,6,reviewed,hv,hv
+2018-05-21T10:55:19.180Z,19.405,-155.281,0.01,4.9,mw,14,77,0.006997,0.21,hv,hv70186732,2018-08-21T21:23:48.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.4,31.61,,5,reviewed,hv,hv
+2018-05-20T21:50:07.310Z,19.405,-155.281,0.01,4.9,mw,13,109,0.006997,0.09,hv,hv70167521,2018-08-15T19:47:00.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.34,31.61,,5,reviewed,hv,hv
+2018-05-20T01:58:13.320Z,19.405,-155.281,0.01,4.9,mw,19,71,0.006997,0.21,hv,hv70165286,2018-08-15T19:46:59.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.32,31.61,,6,reviewed,hv,hv
+2018-05-19T09:58:33.210Z,19.405,-155.281,0.01,5.1,mw,13,56,0.006997,0.38,hv,hv70163146,2018-08-15T19:46:58.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.61,31.61,,5,reviewed,hv,hv
+2018-05-17T14:04:10.700Z,19.405,-155.281,0.01,5,mw,13,56,0.006997,0.41,hv,hv70166177,2018-08-15T19:46:55.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.62,31.61,,5,reviewed,hv,hv
+2018-05-17T04:15:30.350Z,19.405,-155.281,0.01,5,mw,11,76,0.006997,0.4,hv,hv70164442,2018-08-15T19:46:55.040Z,"5km WSW of Volcano, Hawaii",volcanic eruption,0.72,31.61,,3,reviewed,hv,hv
+2018-05-16T18:30:45.910Z,19.4136667,-155.28,0.45,4.43,ml,16,55,0.001843,0.06,hv,hv70163032,2018-08-15T19:46:54.040Z,"4km WSW of Volcano, Hawaii",earthquake,0.24,0.21,0.201,23,reviewed,hv,hv
+2018-05-13T09:53:30.870Z,19.367,-154.8675,11.86,4.44,ml,71,228,0.1005,0.12,hv,hv70152547,2018-12-06T01:03:10.686Z,"12km SSE of Leilani Estates, Hawaii",earthquake,0.46,0.23,0.208,45,reviewed,hv,hv
+2018-05-12T07:25:01.240Z,19.367,-155.0071667,5.88,4.23,ml,67,179,0.06631,0.13,hv,hv70148657,2018-08-08T15:21:07.040Z,"14km SW of Leilani Estates, Hawaii",earthquake,0.44,0.34,0.166,46,reviewed,hv,hv
+2018-05-10T23:52:16.840Z,19.3623,-154.9523,-0.02,4,ml,,202,0.086,1.19,us,us1000e2hn,2018-08-08T15:20:21.040Z,"12km SSW of Leilani Estates, Hawaii",earthquake,2.7,7.8,0.131,61,reviewed,hv,hv
+2018-05-06T13:26:07.980Z,19.1001667,-155.2055,9.35,4.25,ml,62,217,0.181,0.12,hv,hv70123771,2018-12-06T00:56:39.540Z,"33km ESE of Pahala, Hawaii",earthquake,0.91,0.45,0.164,44,reviewed,hv,hv
+2018-05-05T06:11:08.990Z,19.3205,-154.9758333,2.35,4.06,ml,11,261,0.1157,0.08,hv,hv70118241,2018-07-27T20:20:30.040Z,"17km SSW of Leilani Estates, Hawaii",earthquake,2.2,3.4,0.131,40,reviewed,hv,hv
+2018-05-05T03:30:15.740Z,19.0588333,-155.0411667,7.82,4.4,ml,63,245,0.2406,0.12,hv,hv70117676,2018-12-06T02:28:09.026Z,"44km SSE of Volcano, Hawaii",earthquake,0.46,0.53,0.176,45,reviewed,hv,hv
+2018-05-05T01:20:27.840Z,19.3163333,-154.7796667,10.55,4.75,ml,60,280,0.1908,0.13,hv,hv70117211,2018-12-06T01:14:18.385Z,"22km SE of Leilani Estates, Hawaii",earthquake,0.63,0.33,0.147,40,reviewed,hv,hv
+2018-05-05T00:37:10.680Z,19.215,-155.3168333,9.29,4.93,ml,62,167,0.07944,0.16,hv,hv70117041,2018-12-06T02:18:59.650Z,"16km E of Pahala, Hawaii",earthquake,0.34,0.36,0.191,36,reviewed,hv,hv
+2018-05-04T22:48:19.500Z,19.4128333,-155.3158333,2.64,4.66,ml,63,31,0.01617,0.12,hv,hv70116601,2018-12-06T02:02:25.868Z,"8km WSW of Volcano, Hawaii",earthquake,0.2,0.28,0.245,27,reviewed,hv,hv
+2018-05-04T22:42:42.500Z,19.3103333,-155.2173333,7.74,4.64,ml,46,88,0.02976,0.11,hv,hv70116581,2018-07-27T20:20:30.040Z,"13km S of Volcano, Hawaii",earthquake,0.29,0.43,0.124,32,reviewed,hv,hv
+2018-05-04T22:37:18.600Z,19.2728333,-155.2446667,7.91,4.61,ml,43,158,0.02068,0.1,hv,hv70116566,2018-07-27T20:20:39.040Z,"17km S of Volcano, Hawaii",earthquake,0.39,0.48,0.161,36,reviewed,hv,hv
+2018-05-04T22:32:54.650Z,19.3181667,-154.9996667,5.81,6.9,mw,63,210,0.11,0.11,hv,hv70116556,2018-10-17T21:55:01.007Z,"19km SSW of Leilani Estates, Hawaii",earthquake,0.52,0.31,,10,reviewed,hv,hv
+2018-05-04T21:38:23.880Z,19.3378333,-155.0215,1.32,4.35,ml,51,205,0.08179,0.14,hv,hv70116416,2018-07-27T20:20:30.040Z,"18km SW of Leilani Estates, Hawaii",earthquake,0.68,0.66,0.148,46,reviewed,hv,hv
+2018-05-04T21:32:44.060Z,19.3303333,-155.0175,6.48,5.73,ml,66,202,0.09,0.12,hv,hv70116411,2018-12-06T00:28:40.069Z,"18km SW of Leilani Estates, Hawaii",earthquake,0.46,0.3,0.146,30,reviewed,hv,hv
+2018-05-03T20:30:56.470Z,19.3388333,-155.0706667,6.47,5.06,mb,63,176,0.05361,0.11,hv,hv70112126,2018-12-06T02:36:33.735Z,"18km S of Fern Acres, Hawaii",earthquake,0.37,0.31,,22,reviewed,hv,hv
+2018-05-01T12:39:11.860Z,19.2705,-155.0968333,5.9,4.22,ml,29,209,0.03409,0.11,hv,hv70102511,2018-07-27T20:20:33.040Z,"23km SE of Volcano, Hawaii",earthquake,0.53,1.17,0.223,43,reviewed,hv,hv
+2017-08-19T06:35:51.270Z,19.9838,-154.0012,30.142,4.1,ml,,305,0.974,0.56,us,us2000a9pz,2017-11-14T01:42:14.040Z,"107km ENE of Hawaiian Beaches, Hawaii",earthquake,7.4,9.5,0.148,24,reviewed,hv,hv
+2017-07-30T12:01:06.460Z,20.4045,-156.102,17.252,4.21,ml,72,137,0.2893,0.14,hv,hv61568507,2018-05-04T22:26:04.763Z,"33km WNW of Hawi, Hawaii",earthquake,0.65,31.61,0.142,49,reviewed,hv,hv
+2017-06-21T20:09:06.470Z,18.9255,-155.538,38.12,4.51,ml,54,247,0.1341,0.11,hv,hv61807446,2018-06-20T04:44:55.328Z,"28km ESE of Hawaiian Ocean View, Hawaii",earthquake,0.59,0.72,0.197,49,reviewed,hv,hv
+2017-06-08T17:01:19.350Z,19.33,-155.1206667,7.132,5.28,ml,66,135,0.04462,0.09,hv,hv61792931,2018-05-14T07:22:43.106Z,"16km SE of Volcano, Hawaii",earthquake,0.25,0.23,0.204,32,reviewed,hv,hv
+2017-03-23T20:27:29.120Z,19.2835,-155.1768333,8.342,4.49,ml,64,150,0.04516,0.12,hv,hv61658206,2017-06-12T19:46:55.040Z,"17km SSE of Volcano, Hawaii",earthquake,0.3,0.22,0.181,39,reviewed,hv,hv
+2017-03-09T13:03:39.140Z,21.7531667,-156.8668333,31.966,4.71,ml,30,231,0.6314,0.19,hv,hv61636051,2017-05-31T01:58:59.040Z,"75km NNE of Kualapu'u, Hawaii",earthquake,0.48,0.94,0.164,52,reviewed,hv,hv
+2017-02-17T15:33:30.660Z,20.0665,-156.0566667,40.721,4.66,ml,25,133,0.1881,0.13,hv,hv61610021,2017-06-11T18:26:10.686Z,"28km WNW of Waikoloa Village, Hawaii",earthquake,0.55,0.99,0.189,44,reviewed,hv,hv
+2016-12-18T16:30:32.720Z,18.41,-155.5172,36.526,4.5,mb,,311,0.584,0.67,us,us200082cz,2017-03-16T02:31:28.040Z,"77km SSE of Hawaiian Ocean View, Hawaii",earthquake,3.3,8.5,0.242,5,reviewed,hv,us
+2016-07-23T07:16:05.250Z,19.5295,-155.96,11.481,4.32,ml,22,235,0.05781,0.24,hv,hv61350131,2017-10-11T21:31:05.906Z,"3km WSW of Honalo, Hawaii",earthquake,0.98,0.49,0.106,10,reviewed,hv,hv
+2016-04-01T09:16:08.880Z,20.6876,-155.195,25.29,4.2,mwr,,107,0.806,0.48,us,us20005dvu,2016-06-17T21:44:50.040Z,"72km NNE of Honoka'a, Hawaii",earthquake,3.4,5.8,0.057,30,reviewed,us,us
+2016-03-20T16:43:59.650Z,19.8465,-155.6991667,32.356,4.59,ml,27,112,0.04057,0.1,hv,hv61207881,2017-07-04T01:31:21.867Z,"14km SE of Waikoloa, Hawaii",earthquake,0.55,0.79,0.182,17,reviewed,hv,hv
+2016-02-12T19:23:05.800Z,19.3513333,-155.0523333,8.248,4.1,ml,44,179,0.05519,0.09,hv,hv61176206,2016-04-26T23:28:17.040Z,"18km S of Fern Acres, Hawaii",earthquake,0.42,0.43,0.115,27,reviewed,hv,hv
+2015-06-28T08:10:10.480Z,19.335,-155.2093333,8.55,5.2,ml,63,74,0.03902,0.09,hv,hv60968241,2017-02-17T15:38:06.204Z,"11km SSE of Volcano, Hawaii",earthquake,0.27,0.23,0.178,21,reviewed,hv,hv
+2015-05-09T12:18:48.280Z,19.1426667,-155.5933333,8.79,4.46,ml,63,120,0.1049,0.23,hv,hv60922676,2015-07-17T07:06:03.040Z,"13km WSW of Pahala, Hawaii",earthquake,0.47,0.57,0.153,40,reviewed,hv,hv
+2015-04-05T13:23:52.100Z,19.7483,-156.1013,10,4.5,Ml,,244.8,0.25152828,0.17,hv,hv60887176,2015-06-16T01:00:28.040Z,"12km W of Kalaoa, Hawaii",earthquake,1.3,0.9,0.2,38,reviewed,hv,hv
+2015-02-09T18:16:15.590Z,19.3716667,-155.3418333,13.43,4.25,ml,58,46,0.0257,0.1,hv,hv60848586,2015-05-21T21:13:37.670Z,"12km WSW of Volcano, Hawaii",earthquake,0.24,0.17,0.17,36,reviewed,hv,hv
+2014-12-13T06:42:46.980Z,19.8263,-156.4813,42.2,4.2,ml,,184,0.469,0.75,us,usc000t69v,2016-07-23T07:39:21.735Z,"53km WNW of Kalaoa, Hawaii",earthquake,10.8,15.2,0.2,40,reviewed,us,hv
+2014-10-13T04:43:51.100Z,19.1608,-155.5965,5.4,4,Ml,,100.8,0.12576414,0.19,hv,hv60788561,2015-01-29T03:06:04.645Z,"13km WSW of Pahala, Hawaii",earthquake,0.3,0.8,0.2,41,reviewed,hv,hv
+2014-10-13T04:43:51.100Z,19.1608,-155.5965,5.4,4,ml,,100,0.126,0.48,us,usb000slgz,2015-01-06T23:49:54.040Z,"13km WSW of Pahala, Hawaii",earthquake,1.8,8,0.2,41,reviewed,hv,hv
+2014-08-22T12:37:13.470Z,20.6613,-157.6171,16.75,4.2,ml,,178,0.742,0.43,us,usb000s5c6,2018-08-01T19:07:08.696Z,"74km WSW of Lana'i City, Hawaii",earthquake,5.7,5.6,0.2,33,reviewed,us,hv
+2014-08-12T07:47:43.530Z,20.1567,-155.19,22.72,4,ml,,224,0.462,0.67,us,usb000s268,2015-01-28T20:56:14.697Z,"30km ENE of Honoka'a, Hawaii",earthquake,,9.4,0.056,44,reviewed,us,us
+2014-08-07T16:24:04.200Z,20.0788,-155.7935,16.8,4.5,Ml,,122.4,0.04491576,0.14,hv,hv60748981,2015-01-28T12:45:53.330Z,"14km WNW of Waimea, Hawaii",earthquake,0.5,1,0.2,45,reviewed,hv,hv
+2014-06-07T02:42:21.420Z,20.8987,-157.2876,7.44,4.1,ml,,160,0.782,0.59,us,usc000rcdg,2015-01-28T17:38:40.531Z,"34km SW of Kaunakakai, Hawaii",earthquake,,6.8,0.2,33,reviewed,us,hv
+2013-11-29T01:50:58.920Z,18.0002,-154.6115,25.4,4.1,ml,,329,1.448,0.26,us,usb000l7vq,2014-02-12T01:08:36.000Z,"161km SE of Pahala, Hawaii",earthquake,,10.4,0.2,,reviewed,us,hv
+2013-09-08T18:57:14.260Z,28.9173,179.9979,10,4.9,mb,,57,2.418,1.11,us,usb000jlnv,2013-11-15T03:20:29.000Z,"268km WNW of Sand Island, Midway Islands",earthquake,,1.8,0.065,,reviewed,us,us
+2013-08-11T15:54:05.400Z,19.3385,-155.2703,31.8,4.9,Ml,,79.2,0.02694946,0.12,hv,hv60521547,2015-01-28T07:52:12.938Z,"10km SSW of Volcano, Hawaii",earthquake,0.3,0.4,0.2,42,reviewed,hv,hv
+2013-06-21T10:04:07.000Z,21.38,-157.065,11.9,4.5,ml,35,198,,,us,usc000hx0t,2015-01-28T17:29:31.349Z,"48km N of Kualapu'u, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2013-06-05T00:12:39.700Z,18.9148,-155.061,40.3,5.3,Mw,,262.8,0.37729242,0.11,hv,hv60508246,2015-03-20T01:22:13.065Z,"54km SE of Pahala, Hawaii",earthquake,0.7,1.1,,0,reviewed,hv,hv
+2013-04-13T20:45:22.900Z,20.383,-154.932,17.3,4.3,mb,54,244,,,us,usb000g6fd,2016-03-20T17:55:23.222Z,"50km NE of Honoka'a, Hawaii",earthquake,,,,11,reviewed,hvo,us
+2013-01-05T14:37:18.000Z,19.337,-155.066,9,4.3,md,42,173.7,,,us,usp000jxwg,2015-01-28T10:45:12.282Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2012-11-25T03:59:46.180Z,18.958,-155.196,23.8,4.3,ml,51,174,,,us,usp000jw1h,2015-01-28T18:32:15.543Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2012-03-24T20:47:15.200Z,19.863,-155.133,43.2,4.6,mb,129,87.9,,,us,usp000jgqw,2017-10-11T20:02:28.611Z,"Hawaii region, Hawaii",earthquake,,,,62,reviewed,hvo,us
+2012-02-24T13:52:45.200Z,19.435,-155.312,6.4,4.5,mb,26,158.3,,,us,usp000jfar,2015-01-28T18:59:52.881Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+2012-02-24T07:02:24.090Z,19.433,-155.314,5.5,4.1,ml,34,59.8,,,us,usp000jfaa,2015-01-28T20:12:48.544Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2012-01-23T02:36:32.200Z,19.321,-155.121,8.5,4.8,mb,157,147.3,,,us,usp000jdv5,2015-01-28T07:33:22.868Z,"Hawaii region, Hawaii",earthquake,,,,101,reviewed,hvo,us
+2011-10-20T00:10:04.300Z,19.88,-155.53,18.8,4.5,ml,24,85.1,,,us,usp000j9jz,2015-01-28T08:06:44.780Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2011-03-11T08:58:25.700Z,19.341,-154.992,9.3,4.6,ml,10,284.5,,,us,usp000hvry,2015-01-28T09:58:06.439Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2010-11-24T04:34:11.420Z,20.324,-156.469,12.9,4.8,mwc,69,60,,1.07,us,usp000hq17,2016-11-10T02:36:34.888Z,"Maui region, Hawaii",earthquake,,6.1,,,reviewed,us,gcmt
+2010-10-30T01:09:25.200Z,20.145,-155.502,34.6,4.1,md,42,183.4,,,us,usp000hnsk,2015-01-28T07:32:29.762Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2010-08-20T14:05:44.400Z,24.15,-154.56,15,4,ml,37,297.6,,,us,usp000hjh1,2014-11-07T01:42:16.257Z,"Hawaiian Islands region",earthquake,,,,,reviewed,hon,us
+2010-03-09T04:29:57.000Z,19.846,-155.364,31.1,4.4,md,21,85.8,,,us,usp000h8zu,2015-01-28T07:54:16.554Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2010-01-18T23:01:35.000Z,19.233,-155.528,6,4.3,md,9,244.6,,,us,usp000h6aq,2015-01-28T16:21:00.331Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2009-10-23T09:13:50.000Z,18.878,-155.213,31,4.4,mb,15,174,,,us,usp000h3ae,2015-01-28T13:14:55.421Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+2009-04-22T02:58:09.000Z,19.325,-155.11,9.2,4.2,mb,15,173.7,,,us,usp000gwfn,2015-01-28T12:20:55.513Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+2009-04-14T22:44:45.000Z,19.328,-155.21,9.9,5.2,mb,152,67.6,,,us,usp000gw54,2015-01-28T07:37:51.239Z,"Hawaii region, Hawaii",earthquake,,,,89,reviewed,hvo,us
+2009-03-09T19:44:53.000Z,20.113,-155.167,19,4,md,15,108.8,,,us,usp000gut0,2015-01-28T09:01:09.661Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2009-01-17T12:55:09.000Z,19.291,-155.005,38.2,4,md,4,343.2,,,us,usp000gsrc,2015-01-28T23:59:01.393Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2008-09-20T03:59:43.000Z,19.327,-155.106,9.7,4.3,md,17,163.1,,,us,usp000ghd1,2015-01-28T17:22:28.489Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2007-12-10T16:31:18.000Z,20.012,-156.273,31.7,4,md,6,168.4,,,us,usp000fu72,2015-01-29T22:52:02.387Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2007-10-26T04:57:58.000Z,19.325,-155.119,9.9,4,ml,6,268.4,,,us,usp000fr9c,2015-01-28T11:37:42.727Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2007-08-15T12:23:10.090Z,19.332,-155.212,9.7,4.6,mb,22,178.4,,,us,usp000fjrv,2015-01-29T01:25:39.470Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+2007-08-14T05:38:06.000Z,19.346,-155.066,9.7,5.4,mwb,263,33.4,,,us,usp000fjn6,2016-11-10T01:43:38.743Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,us
+2007-06-18T04:15:25.470Z,19.387,-155.243,1.3,4,md,5,135.5,,,us,usp000fe8v,2015-01-30T00:06:50.339Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2007-05-26T20:37:06.350Z,20.814,-174.928,10,4.2,mb,11,172.2,,1.08,us,usp000fcty,2014-11-07T01:32:32.155Z,"Hawaiian Islands region",earthquake,,,,3,reviewed,us,us
+2007-05-24T19:33:09.810Z,19.384,-155.238,3.3,4.1,md,5,161.7,,,us,usp000fcnx,2015-01-30T03:46:17.856Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2007-05-24T19:13:44.000Z,19.395,-155.251,2.2,4.2,mb,20,130,,,us,usp000fcnt,2015-01-28T21:10:05.178Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+2006-12-03T12:22:21.000Z,19.959,-155.983,14.1,4.5,mb,40,86,,,us,usp000ezee,2015-01-28T11:51:53.182Z,"Hawaii region, Hawaii",earthquake,,,,10,reviewed,hvo,us
+2006-11-23T19:20:10.000Z,19.89,-155.967,37.7,5.2,mwc,120,45.7,,,us,usp000eync,2016-11-10T01:31:36.602Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,gcmt
+2006-10-15T20:35:21.000Z,20.085,-155.965,9.9,4.4,mb,49,59.2,,,us,usp000ev9g,2015-01-29T00:21:37.248Z,"Hawaii region, Hawaii",earthquake,,,,21,reviewed,hvo,us
+2006-10-15T17:14:12.070Z,20.129,-155.983,18.9,6.1,mwc,231,19,,,us,usp000ev95,2017-04-26T18:06:17.127Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,gcmt
+2006-10-15T17:07:49.250Z,19.878,-155.935,38.9,6.7,mwb,425,17.5,,,us,usp000ev94,2018-03-12T21:02:29.574Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,us
+2006-07-27T20:03:33.000Z,20.34,-156.576,31.3,4.4,mb,15,164.3,,,us,usp000epq3,2015-01-28T10:05:15.498Z,"Maui region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+2006-03-01T18:57:13.000Z,19.443,-155.319,5.9,4,md,4,245,,,us,usp000eb4d,2015-01-30T09:56:54.732Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2006-02-17T01:22:33.000Z,19.336,-155.212,10,4.5,mb,43,146.4,,,us,usp000ea6v,2015-01-29T02:10:12.617Z,"Hawaii region, Hawaii",earthquake,,,,13,reviewed,hvo,us
+2006-01-19T02:04:52.000Z,19.053,-155.43,40,4.7,md,18,219.6,,,us,usp000e8fg,2015-03-24T01:56:42.853Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-12-07T11:58:08.000Z,18.873,-155.182,12,4,md,7,234.2,,,us,usp000e5qc,2014-11-07T01:27:51.511Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-12-07T11:42:12.000Z,18.923,-155.175,28.1,4.7,md,5,316.8,,,us,usp000e5qb,2014-11-07T01:27:51.509Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-12-07T09:02:06.000Z,18.921,-155.264,13,4,mb,9,234.1,,,us,usp000e5q2,2014-11-07T01:27:51.494Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+2005-11-30T08:26:22.000Z,19.33,-155.11,9.9,4.2,mb,27,83.7,,,us,usp000e57q,2015-01-28T19:51:01.405Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+2005-10-10T09:44:59.260Z,19.498,-155.469,6.8,4.2,md,3,222.6,,,us,usp000e1gm,2015-01-30T08:43:55.233Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-07-26T08:08:35.420Z,19.348,-155.327,31.5,4.2,mb,54,52,,,us,usp000dvyx,2015-01-28T22:02:38.152Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+2005-07-17T19:15:03.030Z,18.779,-155.447,32.6,5.1,mwc,156,61.2,,,us,usp000dvda,2016-11-10T01:08:45.823Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+2005-07-15T15:48:54.450Z,20.441,-155.133,17.9,5.3,mwc,198,60.8,,,us,usp000dv8z,2016-11-10T01:08:40.686Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+2005-05-20T15:52:07.830Z,21.671,-157.607,9.9,4.1,ml,34,250,,,us,usp000dr7s,2015-01-30T10:53:09.716Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-05-13T10:06:41.600Z,18.866,-155.202,44,4.6,mb,118,61,,,us,usp000dqps,2015-01-28T21:09:30.166Z,"Hawaii region, Hawaii",earthquake,,,,31,reviewed,hvo,us
+2005-04-23T13:01:29.940Z,18.798,-155.193,44.4,4.3,ml,47,174.1,,,us,usp000dp26,2015-01-30T14:04:04.992Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2005-03-08T17:26:16.730Z,19.015,-155.357,18.9,4.2,mb,57,196.4,,,us,usp000dhtr,2014-11-07T01:25:12.612Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+2004-12-22T17:07:38.770Z,19.39,-155.245,4.2,4,md,32,52.7,,,us,usp000db7j,2015-01-30T18:50:30.412Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2004-10-12T23:17:58.000Z,19.339,-155.118,9.4,4.5,md,44,171.3,,,us,usp000d69k,2015-01-29T19:46:46.061Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2004-10-11T20:29:50.000Z,19.346,-155.276,31.8,4,md,6,256.3,,,us,usp000d67e,2015-01-30T16:59:39.229Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2004-08-14T11:52:27.490Z,20.741,-174.998,10,4.5,mb,35,164.5,,0.56,us,usp000d24y,2014-11-07T01:23:12.760Z,"Hawaiian Islands region",earthquake,,,,7,reviewed,us,us
+2004-06-21T12:07:05.210Z,20.693,-174.971,10,4.1,mb,12,170.4,,0.5,us,usp000cydt,2014-11-07T01:22:39.987Z,"Hawaiian Islands region",earthquake,,,,4,reviewed,us,us
+2004-02-05T10:19:29.300Z,19.374,-155.004,35.3,4.1,md,34,210.2,,,us,usp000ckf3,2015-01-30T06:16:00.446Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2003-08-27T06:24:22.180Z,19.326,-155.207,9.9,4.7,mwc,89,113.1,,,us,usp000c61h,2015-01-28T17:52:19.359Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+2003-07-08T19:36:22.440Z,18.419,-157.152,21.5,4.1,ml,39,278.7,,,us,usp000c20k,2014-11-07T01:19:09.836Z,"Hawaiian Islands region",earthquake,,,,,reviewed,hvo,hvo
+2003-01-25T16:46:25.000Z,19.372,-155.327,29.3,4.1,mb,48,,,,us,usp000bp5s,2015-01-30T00:02:25.036Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+2003-01-07T02:37:42.550Z,19.92,-156.351,4.1,4,ml,44,,,,us,usp000bn6b,2014-11-07T01:17:33.312Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2001-09-13T18:39:54.000Z,18.868,-155.185,12.3,4.4,mb,59,,,,us,usp000ap4c,2014-11-07T01:13:47.823Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+2001-09-13T13:11:45.430Z,18.858,-155.24,12.5,5.2,mb,138,,,,us,usp000ap3x,2014-11-07T01:13:47.737Z,"Hawaii region, Hawaii",earthquake,,,,29,reviewed,hvo,us
+2001-09-11T00:09:21.030Z,18.854,-155.239,12,4.9,mb,135,,,,us,usp000anz9,2014-11-07T01:13:46.305Z,"Hawaii region, Hawaii",earthquake,,,,32,reviewed,hvo,us
+2001-07-21T18:01:07.950Z,18.908,-155.248,13.3,4.1,md,36,,,,us,usp000ajy6,2014-11-07T01:13:19.654Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2001-04-26T04:19:24.800Z,19.417,-155.3,5,4,md,40,,,,us,usp000adz6,2014-11-07T01:12:38.191Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2001-04-26T03:37:39.360Z,19.416,-155.301,5.2,4.4,md,41,,,,us,usp000adz3,2014-11-07T01:12:38.182Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2000-10-14T07:53:42.270Z,20.298,-155.435,38.9,4.3,md,37,,,,us,usp000a1rh,2014-11-07T01:11:16.434Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2000-05-30T02:11:02.740Z,19.324,-155.224,4.5,4,ml,,,,,us,usp0009tn7,2014-11-07T01:10:12.254Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+2000-04-02T06:18:19.740Z,19.339,-155.206,4.5,4.9,mb,,,,,us,usp0009qp5,2014-11-07T01:09:50.134Z,"Hawaii region, Hawaii",earthquake,,,,55,reviewed,hvo,us
+2000-02-18T00:19:28.870Z,19.317,-155.27,32.5,4,mb,,,,,us,usp0009nkn,2014-11-07T01:09:31.376Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+2000-01-28T09:33:42.120Z,19.268,-155.476,11.3,4.1,md,,,,,us,usp0009ms5,2014-11-07T01:09:22.369Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-10-22T20:38:44.000Z,19.23,-155.4,35.6,4.1,md,,,,,us,usp0009gee,2014-11-07T01:08:45.626Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-08-31T08:42:52.770Z,18.189,-155.703,30,4,mb,,,,,us,usp0009dvb,2014-11-07T01:08:21.458Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1999-08-25T02:00:26.010Z,19.211,-155.456,6.8,4,md,,,,,us,usp0009dkn,2014-11-07T01:08:19.834Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-08-17T00:05:26.560Z,19.275,-155.498,9.8,4.4,md,,,,,us,usp0009d50,2014-11-07T01:08:16.887Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-06-10T13:22:21.750Z,18.994,-155.361,52,4.4,md,,,,,us,usp00099mv,2014-11-07T01:07:52.990Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-05-26T16:01:29.270Z,19.411,-155.321,6.3,4.3,md,,,,,us,usp00098tm,2014-11-07T01:07:43.615Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-04-18T11:06:50.510Z,20.773,-156.036,16.7,4,md,,,,,us,usp00096h5,2014-11-07T01:07:29.004Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1999-04-17T00:56:25.000Z,19.248,-155.489,10.9,5.8,mwb,,,,,us,usp00096ec,2017-06-05T19:41:02.990Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,us
+1999-03-18T22:01:33.230Z,19.319,-155.216,7.1,4,md,,,,,us,usp00094rt,2014-11-07T01:07:14.733Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-12-27T21:40:46.900Z,18.793,-155.23,10.7,4.7,md,,,,,us,usp000908s,2014-11-07T01:06:42.076Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-11-22T15:54:25.970Z,20.402,-155.99,33.2,4,mb,,,,,us,usp0008ykr,2014-11-07T01:06:28.487Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1998-10-09T04:50:07.550Z,19.397,-155.241,27.8,4,mb,,,,,us,usp0008w8b,2014-11-07T01:06:13.232Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1998-09-29T06:39:12.590Z,19.346,-155.127,9.5,4.4,mb,,,,,us,usp0008vpt,2014-11-07T01:06:06.942Z,"Hawaii region, Hawaii",earthquake,,,,12,reviewed,hvo,us
+1998-09-28T11:59:49.950Z,19.429,-155.229,0.8,4.1,md,,,,,us,usp0008vng,2014-11-07T01:06:06.721Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-09-28T07:56:12.470Z,19.431,-155.232,0.7,4.1,mb,,,,,us,usp0008vn5,2014-11-07T01:06:06.688Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1998-07-14T14:50:27.990Z,19.342,-155.13,7.5,4.1,md,,,,,us,usp0008rgm,2014-11-07T01:05:35.821Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-06-27T10:11:07.850Z,20.054,-156.308,51.9,4.8,md,,,,,us,usp0008qk2,2014-11-07T01:05:27.386Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-05-11T22:00:18.050Z,19.591,-156.427,38,4,md,,,,,us,usp0008mx5,2014-11-07T01:05:12.476Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-05-07T23:15:33.720Z,19.217,-155.51,8.6,4.3,md,,,,,us,usp0008mn9,2014-11-07T01:05:11.270Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-03-01T04:03:49.560Z,19.541,-155.943,13.8,4,md,,,,,us,usp0008grj,2014-11-07T01:04:37.884Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1998-01-28T06:01:43.010Z,19.418,-155.315,4.2,4.4,md,,,,,us,usp0008f36,2014-11-07T01:04:23.520Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1997-10-26T13:36:02.980Z,19.304,-155.351,31.1,4.2,md,,,,,us,usp00089ms,2014-11-07T01:03:45.699Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1997-08-15T01:54:37.840Z,19.366,-155.143,10,4.6,mb,,,,1.01,us,usp0008681,2014-11-07T01:03:18.795Z,"Hawaii region, Hawaii",earthquake,,,,15,reviewed,us,us
+1997-06-30T15:47:39.500Z,19.358,-155.068,7.5,5.7,mwc,,,,,us,usp000845q,2017-06-05T19:09:47.647Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+1997-03-16T14:19:01.110Z,19.364,-155.08,8,4.2,mb,,,,,us,usp0007yxh,2014-11-07T01:02:20.106Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1996-11-24T02:39:24.340Z,19.336,-155.198,9.8,4.5,mb,,,,,us,usp0007tfk,2014-11-07T01:01:37.698Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1996-08-12T17:51:11.060Z,18.787,-155.199,10.9,4.4,mb,,,,,us,usp0007nfn,2014-11-07T01:00:58.511Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-08-10T05:56:28.760Z,18.862,-155.248,12.7,4.4,mb,,,,,us,usp0007nbj,2014-11-07T01:00:57.742Z,"Hawaii region, Hawaii",earthquake,,,,17,reviewed,hvo,us
+1996-08-09T08:24:54.780Z,19.357,-155.064,4.3,4,md,,,,,us,usp0007na4,2014-11-07T01:00:57.279Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-08-07T02:02:09.180Z,18.889,-155.25,13.5,4,mb,,,,,us,usp0007n70,2014-11-07T01:00:56.641Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-08-02T02:23:32.980Z,18.877,-155.254,13.4,4,md,,,,,us,usp0007n03,2014-11-07T01:00:54.403Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-08-01T12:15:49.090Z,18.906,-155.263,14.5,4.2,mb,,,,,us,usp0007mzf,2014-11-07T01:00:53.941Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+1996-08-01T12:14:27.490Z,18.93,-155.28,22.3,4,md,,,,,us,usp0007mze,2014-11-07T01:00:53.931Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-08-01T07:28:43.030Z,18.922,-155.266,25.5,4,md,,,,,us,usp0007mz3,2014-11-07T01:00:53.745Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-31T16:56:17.420Z,18.901,-155.256,14.3,4.3,md,,,,,us,usp0007mxq,2014-11-07T01:00:51.436Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-31T05:44:31.170Z,18.899,-155.26,14.3,4,md,,,,,us,usp0007mwq,2014-11-07T01:00:51.321Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-30T13:55:55.400Z,18.9,-155.25,10,4.3,mb,,,,,us,usp0007mve,2014-11-07T01:00:51.203Z,"Hawaii region, Hawaii",earthquake,,,,16,reviewed,spec,us
+1996-07-30T13:29:53.230Z,18.836,-155.226,12,4.3,mb,,,,,us,usp0007mvd,2014-11-07T01:00:51.201Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-30T03:45:22.590Z,18.891,-155.255,26.9,4.2,mb,,,,,us,usp0007muv,2014-11-07T01:00:51.145Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-30T01:59:17.700Z,18.933,-155.275,14.4,4,md,,,,,us,usp0007mun,2014-11-07T01:00:51.133Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-29T14:28:35.500Z,18.872,-155.239,12.7,4,md,,,,,us,usp0007mtw,2014-11-07T01:00:51.060Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-29T11:00:32.510Z,18.891,-155.259,13.4,4.4,mb,,,,,us,usp0007mtq,2014-11-07T01:00:51.047Z,"Hawaii region, Hawaii",earthquake,,,,13,reviewed,hvo,us
+1996-07-28T22:44:47.060Z,18.939,-155.274,14.5,4.1,md,,,,,us,usp0007msn,2014-11-07T01:00:50.954Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-28T22:09:27.480Z,18.893,-155.245,13.4,4.3,md,,,,,us,usp0007msm,2014-11-07T01:00:50.954Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-28T22:04:41.910Z,18.85,-155.234,11.8,4,md,,,,,us,usp0007msk,2014-11-07T01:00:50.953Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-28T18:12:12.690Z,18.806,-155.213,12,4.3,md,,,,,us,usp0007mse,2014-11-07T01:00:50.942Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-28T09:30:21.360Z,18.891,-155.247,6.7,4.8,mb,,,,,us,usp0007mrk,2014-11-07T01:00:50.843Z,"Hawaii region, Hawaii",earthquake,,,,29,reviewed,hvo,us
+1996-07-28T07:44:13.410Z,18.902,-155.241,13.6,4.1,mb,,,,,us,usp0007mrg,2014-11-07T01:00:50.838Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1996-07-28T07:42:01.370Z,18.854,-155.228,12.3,4,mb,,,,,us,usp0007mrf,2014-11-07T01:00:50.837Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1996-07-28T05:37:06.300Z,18.879,-155.241,12.6,4.1,mb,,,,,us,usp0007mr9,2014-11-07T01:00:50.806Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-28T04:51:48.520Z,18.879,-155.245,13.3,4.3,md,,,,,us,usp0007mr7,2014-11-07T01:00:50.803Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-28T04:39:04.100Z,18.922,-155.254,14,4.3,mb,,,,,us,usp0007mr5,2014-11-07T01:00:50.801Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-28T03:02:55.850Z,18.739,-155.215,10.2,4.5,mb,,,,,us,usp0007mr0,2014-11-07T01:00:50.790Z,"Hawaii region, Hawaii",earthquake,,,,12,reviewed,hvo,us
+1996-07-28T01:46:22.190Z,18.869,-155.231,12.7,4.5,mb,,,,,us,usp0007mqx,2014-11-07T01:00:50.784Z,"Hawaii region, Hawaii",earthquake,,,,9,reviewed,hvo,us
+1996-07-28T01:44:27.290Z,18.87,-155.251,12.8,4.1,md,,,,,us,usp0007mqw,2014-11-07T01:00:50.783Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-27T22:18:26.410Z,18.875,-155.236,12.6,4,mb,,,,,us,usp0007mqd,2014-11-07T01:00:50.718Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-27T22:10:05.620Z,18.848,-155.235,12.3,4.3,md,,,,,us,usp0007mqc,2014-11-07T01:00:50.717Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-27T22:02:12.820Z,18.858,-155.258,13.5,4.4,mb,,,,,us,usp0007mqb,2014-11-07T01:00:50.715Z,"Hawaii region, Hawaii",earthquake,,,,12,reviewed,hvo,us
+1996-07-27T11:59:04.970Z,18.9,-155.25,10,4.1,mb,,,,,us,usp0007mpd,2014-11-07T01:00:50.633Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,spec,us
+1996-07-27T10:09:25.920Z,18.848,-155.223,12,4.1,mb,,,,,us,usp0007mp7,2014-11-07T01:00:50.593Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-27T08:05:38.490Z,18.874,-155.248,12.8,4.1,mb,,,,,us,usp0007mp0,2014-11-07T01:00:50.554Z,"Hawaii region, Hawaii",earthquake,,,,7,reviewed,hvo,us
+1996-07-27T04:27:37.600Z,18.903,-155.257,14,4.1,mb,,,,,us,usp0007mnw,2014-11-07T01:00:50.547Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-27T04:05:41.690Z,18.888,-155.265,13.2,4.3,mb,,,,,us,usp0007mnv,2014-11-07T01:00:50.544Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1996-07-26T23:59:47.570Z,18.94,-155.269,23.5,4,mb,,,,,us,usp0007mnj,2014-11-07T01:00:50.522Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-26T22:02:31.800Z,18.881,-155.256,13,4,md,,,,,us,usp0007mnc,2014-11-07T01:00:50.511Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-26T13:24:48.350Z,18.886,-155.26,13,4.2,mb,,,,,us,usp0007mmr,2014-11-07T01:00:50.430Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+1996-07-25T04:14:03.930Z,18.9,-155.25,10,4.2,mb,,,,,us,usp0007mk9,2014-11-07T01:00:50.290Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,spec,us
+1996-07-25T02:45:20.680Z,18.876,-155.248,1.4,4.1,md,,,,,us,usp0007mk4,2014-11-07T01:00:50.264Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-24T17:38:49.440Z,18.861,-155.246,12.6,4.6,mb,,,,,us,usp0007mjd,2014-11-07T01:00:50.168Z,"Hawaii region, Hawaii",earthquake,,,,27,reviewed,hvo,us
+1996-07-24T16:52:48.730Z,18.871,-155.233,12.7,4.1,mb,,,,,us,usp0007mjb,2014-11-07T01:00:50.153Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1996-07-24T13:51:02.880Z,18.884,-155.226,15.9,4.3,mb,,,,,us,usp0007mj8,2014-11-07T01:00:50.137Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-24T10:55:34.380Z,18.9,-155.25,10,4.3,mb,,,,,us,usp0007mj3,2014-11-07T01:00:50.129Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,spec,us
+1996-07-24T10:54:21.410Z,18.9,-155.25,10,4.4,mb,,,,,us,usp0007mj2,2014-11-07T01:00:50.127Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,spec,us
+1996-07-24T10:54:04.940Z,18.838,-155.233,12,4.1,mb,,,,,us,usp0007mj1,2014-11-07T01:00:50.126Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-24T08:51:53.190Z,18.9,-155.25,10,4,mb,,,,,us,usp0007mhy,2014-11-07T01:00:50.122Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,spec,us
+1996-07-24T06:12:22.910Z,18.873,-155.238,12.3,4.3,md,,,,,us,usp0007mhr,2014-11-07T01:00:50.106Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-24T05:48:37.310Z,18.905,-155.259,32.6,4.2,mb,,,,,us,usp0007mhm,2014-11-07T01:00:50.097Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1996-07-24T01:18:42.400Z,18.887,-155.242,13.1,4,mb,,,,,us,usp0007mh5,2014-11-07T01:00:50.044Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-23T23:47:31.690Z,18.912,-155.259,30,4,mb,,,,,us,usp0007mgz,2014-11-07T01:00:50.005Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-23T13:24:59.280Z,18.881,-155.258,7.4,4.6,mb,,,,,us,usp0007mg3,2014-11-07T01:00:49.919Z,"Hawaii region, Hawaii",earthquake,,,,27,reviewed,hvo,us
+1996-07-23T12:59:50.960Z,18.838,-155.219,11.9,4.3,mb,,,,,us,usp0007mg2,2014-11-07T01:00:49.918Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1996-07-23T12:57:32.110Z,18.811,-155.217,11.2,4.2,md,,,,,us,usp0007mg1,2014-11-07T01:00:49.917Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-23T11:15:32.340Z,18.897,-155.233,13.1,4.1,mb,,,,,us,usp0007mfw,2014-11-07T01:00:49.908Z,"Hawaii region, Hawaii",earthquake,,,,8,reviewed,hvo,us
+1996-07-23T08:50:07.590Z,18.866,-155.246,12.7,4.1,mb,,,,,us,usp0007mfp,2014-11-07T01:00:49.896Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1996-07-23T03:34:46.020Z,18.865,-155.236,12.6,4.1,mb,,,,,us,usp0007mfb,2014-11-07T01:00:49.803Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-23T03:12:28.620Z,18.848,-155.233,12.2,4.1,mb,,,,,us,usp0007mf8,2014-11-07T01:00:49.757Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1996-07-23T00:48:59.460Z,18.881,-155.252,27.6,4.2,mb,,,,,us,usp0007mf3,2014-11-07T01:00:49.702Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-22T22:36:42.000Z,18.9,-155.25,10,4,mb,,,,,us,usp0007mey,2014-11-07T01:00:49.664Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,spec,us
+1996-07-22T21:31:53.060Z,18.869,-155.266,13.2,4.3,mb,,,,,us,usp0007meu,2014-11-07T01:00:49.653Z,"Hawaii region, Hawaii",earthquake,,,,11,reviewed,hvo,us
+1996-07-22T21:07:27.780Z,18.9,-155.248,13.7,4.3,mb,,,,,us,usp0007mes,2014-11-07T01:00:49.649Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1996-07-22T14:50:58.270Z,18.889,-155.232,13.1,4.3,mb,,,,,us,usp0007me4,2014-11-07T01:00:49.349Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1996-07-22T14:09:48.900Z,18.911,-155.198,33.2,4.2,mb,,,,,us,usp0007me0,2014-11-07T01:00:49.311Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1996-07-22T11:16:53.660Z,18.884,-155.247,13.4,4,mb,,,,,us,usp0007mds,2014-11-07T01:00:49.282Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1996-07-22T08:22:02.260Z,18.836,-155.233,12.1,4.2,mb,,,,,us,usp0007mdb,2014-11-07T01:00:49.187Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1996-07-22T04:04:49.450Z,18.907,-155.265,13.7,4,md,,,,,us,usp0007mcw,2014-11-07T01:00:49.150Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1996-07-21T22:33:39.600Z,18.9,-155.25,10,4.3,mb,,,,,us,usp0007mcg,2014-11-07T01:00:49.099Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,spec,us
+1996-07-18T17:39:52.120Z,19.9,-155.554,27,4,mb,,,,,us,usp0007m7b,2014-11-07T01:00:48.431Z,"Hawaii region, Hawaii",earthquake,,,,9,reviewed,hvo,us
+1996-07-17T16:53:32.000Z,18.9,-155.25,10,4.2,mb,,,,,us,usp0007m5z,2014-11-07T01:00:48.243Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,spec,us
+1996-06-29T22:32:05.170Z,19.379,-155.457,33,4.1,mb,,,,1.3,us,usp0007kff,2014-11-07T01:00:41.445Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,us,us
+1996-06-14T10:11:23.060Z,19.298,-155.193,33,4.2,mb,,,,0.9,us,usp0007jra,2014-11-07T01:00:37.748Z,"Hawaii region, Hawaii",earthquake,,,,12,reviewed,us,us
+1996-03-09T06:15:20.660Z,19.82,-155.543,33.1,4,md,,,,,us,usp0007egm,2014-11-07T01:00:04.943Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1995-10-28T00:22:51.580Z,19.345,-155.111,6.7,4.2,mb,,,,,us,usp00075vu,2014-11-07T00:59:01.717Z,"Hawaii region, Hawaii",earthquake,,,,8,reviewed,hvo,us
+1995-05-11T13:49:20.450Z,20.072,-155.331,23.1,4.4,mb,,,,,us,usp0006x6g,2014-11-07T00:57:54.469Z,"Hawaii region, Hawaii",earthquake,,,,7,reviewed,hvo,us
+1995-05-03T22:28:36.150Z,19.32,-155.217,7.6,4,md,,,,,us,usp0006wta,2014-11-07T00:57:51.945Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1995-03-27T16:04:42.960Z,19.351,-155.229,25.3,4.1,mb,,,,,us,usp0006utw,2014-11-07T00:57:34.007Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1995-03-20T08:29:51.400Z,20.018,-156.591,51.3,4.6,mb,,,,,us,usp0006uf6,2014-11-07T00:57:32.358Z,"Maui region, Hawaii",earthquake,,,,8,reviewed,hvo,us
+1994-11-22T05:10:06.690Z,19.342,-155.113,5.3,4.1,md,,,,,us,usp0006p1h,2014-11-07T00:56:49.835Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1994-02-01T10:01:54.590Z,19.244,-155.288,32.8,5.6,mw,,,,,us,usp00067us,2016-11-09T21:47:29.943Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+1993-09-28T06:15:10.360Z,19.363,-155.085,7.3,4,md,,,,,us,usp000615f,2014-11-07T00:54:03.306Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1993-06-08T12:57:49.450Z,19.328,-155.217,3.7,5.2,mb,,,,,us,usp0005u79,2014-11-07T00:53:11.813Z,"Hawaii region, Hawaii",earthquake,,,,34,reviewed,hvo,us
+1993-05-23T08:16:30.200Z,19.723,-156.134,44.2,4,mb,,,,,us,usp0005taw,2014-11-07T00:53:03.592Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1993-01-26T15:24:08.870Z,19.219,-155.482,8.6,4.9,mb,,,,,us,usp0005m91,2014-11-07T00:52:16.724Z,"Hawaii region, Hawaii",earthquake,,,,20,reviewed,hvo,us
+1993-01-25T08:14:53.770Z,19.417,-155.32,4.2,4.2,mb,,,,,us,usp0005m7h,2014-11-07T00:52:16.568Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+1992-10-10T07:25:26.500Z,19.701,-154.998,47.5,4,mb,,,,,us,usp0005f5b,2014-11-07T00:51:38.993Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1992-10-03T05:51:41.460Z,19.328,-155.072,1.8,4,mb,,,,,us,usp0005ew3,2014-11-07T00:51:37.160Z,"Hawaii region, Hawaii",earthquake,,,,4,reviewed,hvo,us
+1992-01-21T11:48:01.610Z,19.842,-155.616,21.3,4,ml,,,,,us,usp000521c,2014-11-07T00:49:55.838Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1991-12-19T17:15:57.310Z,19.014,-155.225,14.6,4,ml,,,,,us,usp00050p7,2014-11-07T00:49:45.796Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1991-12-09T23:14:30.480Z,18.835,-155.849,46.4,4.7,mb,,,,,us,usp0005087,2014-11-07T00:49:43.288Z,"Hawaii region, Hawaii",earthquake,,,,8,reviewed,hvo,us
+1991-11-01T20:20:21.970Z,19.328,-155.207,9.4,4,ml,,,,,us,usp0004yq6,2014-11-07T00:49:31.381Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1991-10-23T12:50:26.100Z,21.432,-157.078,29.7,4.1,ml,,,,0.5,us,usp0004y7r,2014-11-07T00:49:26.940Z,"Oahu region, Hawaii",earthquake,,2.1,,,reviewed,us,hvo
+1991-10-03T02:29:36.050Z,19.259,-156.34,43.2,4.9,mb,,,,,us,usp0004xb4,2014-11-07T00:49:21.133Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1991-09-04T17:05:16.410Z,19.203,-155.626,10.3,4.4,md,,,,,us,usp0004w8f,2014-11-07T00:49:13.368Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1991-08-19T09:25:41.440Z,18.758,-156.645,52,4,md,,,,,us,usp0004vkc,2014-11-07T00:49:06.800Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1991-05-08T18:21:11.070Z,19.373,-156.267,36.3,5.5,mb,,,,,us,usp0004rdp,2014-11-07T00:48:33.574Z,"Hawaii region, Hawaii",earthquake,,,,44,reviewed,hvo,us
+1991-03-07T14:13:21.410Z,20.003,-155.685,33.4,4.1,ml,,,,,us,usp0004nsd,2014-11-07T00:48:10.371Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-11-07T12:44:04.830Z,19.341,-155.056,10.3,4.1,md,,,,,us,usp0004gm6,2014-11-07T00:47:25.324Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-10-23T11:35:19.070Z,19.274,-155.372,6.8,4.1,md,,,,,us,usp0004g2n,2014-11-07T00:47:17.986Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-08-09T02:06:36.190Z,19.34,-155.114,9.3,4.8,mb,,,,,us,usp0004d4n,2014-11-07T00:46:55.340Z,"Hawaii region, Hawaii",earthquake,,,,17,reviewed,hvo,us
+1990-08-02T05:37:22.670Z,19.843,-155.617,20.7,5,ms,,,,,us,usp0004cuz,2014-11-07T00:46:51.284Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1990-07-12T13:27:47.130Z,19.333,-155.117,8.8,4,md,,,,,us,usp0004br7,2014-11-07T00:46:40.849Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-06-13T12:07:03.990Z,19.273,-155.499,9.9,4.2,ml,,,,,us,usp0004af1,2014-11-07T00:46:31.139Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-05-08T21:40:17.620Z,19.362,-155.083,9.1,4,md,,,,,us,usp000491j,2014-11-07T00:46:19.782Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-04-04T07:00:22.450Z,19.493,-155.458,0,4.1,md,,,,,us,usp00047ej,2014-11-07T00:46:05.619Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-03-24T18:43:05.430Z,19.505,-155.485,6.4,4.2,md,,,,,us,usp000470k,2014-11-07T00:45:58.407Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-03-12T06:54:47.640Z,18.972,-155.212,17.5,4.4,md,,,,,us,usp00046g6,2014-11-07T00:45:54.992Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1990-03-12T05:06:23.510Z,18.857,-155.24,12,4,md,,,,,us,usp00046g0,2014-11-07T00:45:54.977Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1989-12-28T09:16:36.070Z,19.325,-155.207,9.4,4.4,md,,,,,us,usp00043nv,2014-11-07T00:45:24.161Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1989-12-28T09:13:17.330Z,19.333,-155.212,8.5,5,mb,,,,,us,usp00043nu,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,14,reviewed,hvo,us
+1989-12-05T22:16:58.620Z,21.633,-157.323,10,4,mb,,,,0.6,us,usp00042sh,2018-06-04T20:43:45.000Z,"Oahu region, Hawaii",earthquake,,,,1,reviewed,us,us
+1989-06-26T18:52:27.820Z,19.339,-154.956,1.9,4.2,md,,,,,us,usp0003wpk,2014-11-07T00:44:24.389Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1989-06-26T06:06:10.610Z,19.368,-154.974,3.8,4.4,md,,,,,us,usp0003wnw,2014-11-07T00:44:24.287Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1989-06-26T03:27:03.960Z,19.362,-155.083,9.4,6.5,mw,,,,,us,usp0003wnq,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,nc
+1989-06-01T18:36:56.420Z,19.345,-155.043,9.8,4,md,,,,,us,usp0003vw0,2014-11-07T00:44:17.828Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1989-04-04T19:09:57.010Z,18.972,-155.288,23.9,4.6,mb,,,,,us,usp0003tm7,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,hvo,us
+1989-03-31T18:05:17.080Z,18.838,-155.263,28,4,mb,,,,,us,usp0003tgq,2014-11-07T00:43:51.955Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1988-12-23T22:33:33.810Z,19.302,-155.223,10.8,4.2,md,,,,,us,usp0003q4k,2014-11-07T00:43:18.923Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-12-11T00:10:29.040Z,19.329,-155.209,8,4.1,md,,,,,us,usp0003prj,2014-11-07T00:43:16.862Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-10-29T02:20:03.930Z,19.209,-155.548,0.1,4.1,md,,,,,us,usp0003nan,2014-11-07T00:43:00.339Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-10-03T04:06:42.890Z,19.777,-155.329,31.4,4.1,md,,,,,us,usp0003mfv,2014-11-07T00:42:55.334Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-09-30T00:30:33.220Z,19.332,-155.108,9.8,4.2,ml,,,,,us,usp0003mch,2014-11-07T00:42:52.559Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-09-22T22:28:44.570Z,23.813,-167.197,19.8,5.2,mw,,,,0.9,us,usp0003m6h,2016-11-09T23:32:45.151Z,"French Frigate Shoals region, Hawaii",earthquake,,,,,reviewed,us,hrv
+1988-09-13T05:52:40.440Z,19.312,-155.485,10.9,4.2,ml,,,,,us,usp0003kxv,2014-11-07T00:42:49.066Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-08-14T02:20:44.770Z,20.126,-156.615,33,4.3,mb,,,,0.6,us,usp0003jyv,2014-11-07T00:42:40.272Z,"Maui region, Hawaii",earthquake,,,,2,reviewed,us,us
+1988-07-31T14:50:46.440Z,18.935,-155.19,16.5,4.4,mb,,,,,us,usp0003jfa,2014-11-07T00:42:33.849Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1988-07-31T14:04:33.030Z,18.924,-155.207,16.7,4.5,mb,,,,,us,usp0003jf9,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1988-07-18T03:25:47.370Z,19.266,-155.267,32.6,4.2,md,,,,,us,usp0003hyj,2014-11-07T00:42:31.214Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,us
+1988-07-11T05:12:55.030Z,20.673,-155.399,5,4.1,md,,,,,us,usp0003hsa,2014-11-07T00:42:30.373Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-07-04T05:38:09.310Z,19.221,-155.459,10.9,5.1,mb,,,,,us,usp0003hjq,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,10,reviewed,hvo,us
+1988-06-21T01:50:25.150Z,19.314,-155.49,9.2,4,md,,,,,us,usp0003h56,2014-11-07T00:42:20.401Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-06-17T12:30:34.030Z,19.996,-156.453,5.2,4,md,,,,,us,usp0003h1t,2014-11-07T00:42:19.735Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-06-07T10:48:45.010Z,19.319,-155.117,10.2,4.4,mb,,,,,us,usp0003gt4,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+1988-06-07T04:03:34.760Z,20.839,-155.436,20,4.1,md,,,,,us,usp0003gsz,2014-11-07T00:42:17.939Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-05-11T23:14:17.820Z,19.797,-155.518,26.2,4.2,ml,,,,,us,usp0003fw2,2014-11-07T00:42:08.155Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-05-01T05:30:03.330Z,20,-156.466,0.2,4.1,md,,,,,us,usp0003fjm,2014-11-07T00:42:01.536Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-04-29T07:53:58.250Z,19.758,-155.997,25.9,4.1,md,,,,,us,usp0003fgq,2014-11-07T00:41:59.668Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-04-10T03:46:13.640Z,19.938,-156.601,0,4.2,md,,,,,us,usp0003evw,2014-11-07T00:41:56.780Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-04-02T04:48:07.150Z,19.714,-156.57,10,4.7,mb,,,,0.7,us,usp0003ejs,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,6,reviewed,us,us
+1988-03-31T12:46:49.770Z,19.924,-156.486,0,4.3,md,,,,,us,usp0003eh1,2014-11-07T00:41:51.212Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-03-30T16:21:50.170Z,19.978,-156.499,45.6,4.1,md,,,,,us,usp0003efw,2014-11-07T00:41:50.529Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-03-30T15:47:36.970Z,19.334,-155.065,8.6,4.1,md,,,,,us,usp0003efv,2014-11-07T00:41:50.525Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-03-28T07:32:39.280Z,19.967,-156.436,2.4,4,md,,,,,us,usp0003edg,2014-11-07T00:41:50.113Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-03-28T03:58:33.720Z,19.966,-156.449,45.8,4.2,mb,,,,,us,usp0003edb,2014-11-07T00:41:50.097Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1988-03-28T03:33:40.870Z,19.936,-156.445,1.3,5.5,mw,,,,,us,usp0003ed9,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+1988-03-25T00:29:50.520Z,19.992,-156.454,0.1,5.3,mb,,,,,us,usp0003e9m,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,14,reviewed,hvo,us
+1988-03-20T15:25:59.920Z,19.354,-155.071,9.8,4.4,md,,,,,us,usp0003e53,2014-11-07T00:41:49.018Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-03-02T08:41:56.520Z,19.329,-155.213,9.5,4.9,mb,,,,,us,usp0003dhb,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,10,reviewed,hvo,us
+1988-02-20T04:47:04.740Z,19.354,-155.026,9.1,4.1,ml,,,,,us,usp0003d6b,2014-11-07T00:41:40.515Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-01-27T01:24:35.970Z,19.325,-155.057,5.2,4,md,,,,,us,usp0003cf6,2014-11-07T00:41:33.057Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1988-01-22T17:04:18.430Z,19.39,-154.705,47.8,4.1,md,,,,,us,usp0003c9u,2014-11-07T00:41:32.032Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1987-11-26T04:49:21.970Z,20.385,-156.234,40,4,ml,,,,,us,usp0003ajv,2014-11-07T00:41:15.808Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1987-09-19T09:37:07.240Z,19.304,-155.82,12.2,4,md,,,,,us,usp00038h8,2014-11-07T00:40:57.316Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1987-02-04T03:44:43.530Z,20.062,-156.54,45,4.2,ml,,,,,us,usp000325n,2014-11-07T00:39:46.284Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1987-02-04T02:22:32.760Z,20.053,-156.53,10,5.5,mw,,,,,us,usp000325k,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hrv
+1987-01-07T16:23:32.480Z,19.349,-155.267,33.2,4,ml,,,,,us,usp00031fr,2014-11-07T00:39:37.817Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1986-12-07T02:45:30.080Z,20.864,-156.036,38.1,4,ml,,,,,us,usp00030pb,2014-11-07T00:39:28.088Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1986-09-19T14:44:42.580Z,19.333,-155.349,31.2,4,ml,,,,,us,usp0002y7j,2014-11-07T00:39:02.010Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1986-07-09T12:28:09.150Z,19.552,-155.999,19.5,4.2,mb,,,,,us,usp0002vvm,2014-11-07T00:38:40.628Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1986-04-26T17:19:46.590Z,20.811,-155.749,33,5.1,mb,,,,0.7,us,usp0002t7h,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,19,reviewed,us,us
+1986-04-23T04:43:51.330Z,19.305,-155.271,31.4,4.4,ml,,,,,us,usp0002t4k,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1986-04-07T08:37:49.740Z,19.199,-155.62,11.2,4.2,mb,,,,,us,usp0002sqs,2014-11-07T00:38:11.766Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1986-02-03T11:01:22.180Z,19.357,-155.022,7,4,ml,,,,,us,usp0002qpc,2014-11-07T00:37:52.241Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-12-13T23:20:57.370Z,19.328,-155.129,9.3,4,ml,,,,,us,usp0002nua,2014-11-07T00:37:37.474Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-12-12T21:18:39.330Z,19.516,-155.908,11.8,4,ml,,,,,us,usp0002nth,2014-11-07T00:37:37.389Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-12-12T19:01:19.890Z,20.615,-155.762,33,4.3,mb,,,,0.5,us,usp0002nte,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,us,us
+1985-08-22T16:28:00.160Z,19.309,-156.07,40,4.3,ml,,,,,us,usp0002j0u,2014-11-07T00:37:02.399Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,us
+1985-07-25T15:34:15.000Z,19.729,-156.365,32.1,4.1,ml,,,,,us,usp0002h2x,2014-11-07T00:36:53.564Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-07-07T12:00:37.480Z,19.168,-155.596,10.2,4,mb,,,,,us,usp0002gjd,2014-11-07T00:36:50.986Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1985-04-01T21:31:18.480Z,19.364,-155.085,9,4.3,ml,,,,,us,usp0002dcm,2014-11-07T00:36:22.952Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-02-26T04:27:47.130Z,19.748,-156.019,9.2,4,ml,,,,,us,usp0002c8d,2014-11-07T00:36:12.026Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1985-02-22T05:48:29.390Z,19.329,-155.211,9.5,5,mb,,,,,us,usp0002c3z,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,22,reviewed,hvo,us
+1984-12-26T03:22:11.460Z,19.98,-155.098,34.8,4.3,ml,,,,,us,usp0002ae1,2014-11-07T00:35:54.313Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-11-19T00:35:09.990Z,20.163,-155.636,32.4,4,ml,,,,,us,usp000296n,2014-11-07T00:35:43.662Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-11-11T15:34:06.200Z,18.931,-155.222,8.8,4.2,ml,,,,,us,usp00028zd,2014-11-07T00:35:42.307Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-10-08T10:00:25.140Z,20.123,-156.856,30.7,4.1,ml,,,,,us,usp0002805,2014-11-07T00:35:33.561Z,"Maui region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-09-25T07:27:48.200Z,19.316,-155.903,12.4,4.3,ml,,,,,us,usp00027pt,2014-11-07T00:35:28.862Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-08-14T20:10:02.100Z,19.782,-154.913,48.4,4.3,ml,,,,,us,usp00026ea,2014-11-07T00:35:18.780Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-07-09T03:26:34.000Z,21.561,-154.948,31,4,ml,,,,,us,usp00025kx,2014-11-07T00:35:10.697Z,"Hawaiian Islands region",earthquake,,,,,reviewed,hvo,hvo
+1984-06-16T18:22:08.420Z,20.964,-157.386,10.3,4.2,ml,,,,,us,usp000252g,2014-11-07T00:35:03.047Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-06-09T03:34:09.400Z,20.132,-157.793,1.2,5.3,ml,,,,,us,usp00024x2,2018-06-04T20:43:45.000Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-05-01T13:55:23.070Z,19.211,-155.57,13.3,4,ml,,,,,us,usp000241r,2014-11-07T00:34:50.389Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-02-15T17:22:41.110Z,19.398,-155.456,11.4,4.2,ml,,,,,us,usp000220b,2014-11-07T00:34:30.616Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-02-14T07:10:02.840Z,30.707,-157.136,10,5,mb,,,,0.7,us,usp00021z7,2014-11-07T00:34:30.505Z,"North Pacific Ocean",earthquake,,,,20,reviewed,us,us
+1984-02-03T01:51:22.490Z,19.395,-155.611,5.5,4.1,ml,,,,,us,usp00021rd,2014-11-07T00:34:27.779Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1984-01-03T00:10:20.220Z,20.666,-154.892,6.5,4,ml,,,,,us,usp0002102,2014-11-07T00:34:20.887Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-12-29T21:50:11.870Z,19.424,-155.627,1.1,4.1,ml,,,,,us,usp00020wu,2014-11-07T00:34:17.739Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-12-22T19:29:48.780Z,19.344,-155.26,33.7,4.3,ml,,,,,us,usp00020qp,2014-11-07T00:34:16.985Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-12-15T06:56:23.970Z,19.366,-155.502,10,4,ml,,,,,us,usp00020gk,2014-11-07T00:34:15.294Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-11-27T19:27:31.670Z,19.36,-155.05,8.8,4.2,ml,,,,,us,usp000203r,2014-11-07T00:34:09.682Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-11-26T04:17:32.980Z,19.149,-155.582,10.9,4,ml,,,,,us,usp000202q,2014-11-07T00:34:09.536Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-11-19T11:37:51.710Z,19.29,-155.26,10.6,4.1,md,,,,,us,usp0001zxr,2014-11-07T00:34:08.801Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-11-16T23:30:47.550Z,19.486,-155.396,11.8,4.8,mb,,,,,us,usp0001zw3,2014-11-07T00:34:08.529Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1983-11-16T16:13:00.070Z,19.43,-155.454,12,6.7,mw,,,,,us,usp0001zvx,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,nc
+1983-10-08T03:21:36.300Z,19.742,-155.473,16,4.1,ml,,,,,us,usp0001yv7,2014-11-07T00:33:57.039Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-09-16T19:22:12.220Z,19.503,-155.653,7.7,4.3,ml,,,,,us,usp0001ydy,2014-11-07T00:33:49.069Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-09-14T05:39:57.530Z,19.354,-155.052,9,4.2,ml,,,,,us,usp0001ybp,2014-11-07T00:33:48.187Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-09-09T16:30:55.350Z,19.332,-155.122,9,5.5,mb,,,,,us,usp0001y7w,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,22,reviewed,hvo,us
+1983-08-18T15:43:59.500Z,19.975,-155.137,31,4.3,ml,,,,,us,usp0001xrv,2014-11-07T00:33:38.932Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-06-06T04:54:31.000Z,19.15,-155.533,33,4.1,ml,,,,,us,usp0001vxw,2014-11-07T00:33:17.608Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-05-13T10:30:08.000Z,19.167,-155.583,9,4.5,ml,,,,,us,usp0001va4,2014-11-07T00:33:10.228Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-04-28T09:34:32.900Z,19.33,-155.012,8.4,4,ml,,,,,us,usp0001uug,2014-11-07T00:33:02.408Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-03-21T03:18:39.210Z,19.357,-155.05,6.9,4.9,mb,,,,,us,usp0001tta,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,7,reviewed,hvo,us
+1983-03-17T02:10:09.170Z,18.582,-154.389,40.7,4.2,ml,,,,,us,usp0001tq3,2014-11-07T00:32:49.610Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-03-08T16:41:03.390Z,19.199,-155.593,11.5,4.5,ml,,,,,us,usp0001tgq,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1983-02-08T02:02:45.500Z,19.358,-155.242,28,4.6,mb,,,,,us,usp0001swg,2014-11-07T00:32:38.979Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1982-12-05T15:37:37.830Z,19.804,-156.153,37.8,4.1,ml,,,,,us,usp0001r9k,2014-11-07T00:32:18.722Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-11-30T00:50:38.070Z,19.351,-155.334,31.8,4,ml,,,,,us,usp0001r6x,2014-11-07T00:32:15.065Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-11-13T02:18:58.250Z,19.454,-155.442,14.8,4.4,mb,,,,,us,usp0001qvn,2014-11-07T00:32:11.548Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1982-10-05T21:39:36.730Z,18.906,-155.26,15,4.2,ml,,,,,us,usp0001q21,2014-11-07T00:31:59.639Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-08-27T11:48:32.090Z,20.099,-155.624,9.9,4.1,ml,,,,,us,usp0001p98,2014-11-07T00:31:47.559Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-08-12T10:43:35.760Z,19.415,-155.268,16.2,4.1,ml,,,,,us,usp0001p05,2014-11-07T00:31:46.020Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-05-19T03:36:20.520Z,19.909,-156.365,0.4,4.8,mb,,,,,us,usp0001mdu,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,5,reviewed,hvo,us
+1982-05-14T16:26:31.760Z,20,-155.864,19.7,4.5,mb,,,,,us,usp0001mas,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1982-05-10T20:47:27.230Z,19.175,-155.598,10.3,4.2,ml,,,,,us,usp0001m7j,2014-11-07T00:31:17.556Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-04-16T15:00:23.220Z,20.037,-155.344,6.8,4.2,ml,,,,,us,usp0001krw,2014-11-07T00:31:08.906Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-04-12T02:04:02.400Z,19.329,-155.112,9.2,4.6,mb,,,,,us,usp0001knp,2014-11-07T00:31:07.932Z,"Hawaii region, Hawaii",earthquake,,,,3,reviewed,hvo,us
+1982-03-20T23:10:22.290Z,19.341,-155.281,36.3,4.3,ml,,,,,us,usp0001k7y,2014-11-07T00:31:00.873Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-02-16T03:36:28.220Z,19.358,-155.338,32.2,4.4,ml,,,,,us,usp0001jnt,2014-11-07T00:30:51.694Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-02-09T15:42:22.930Z,19.336,-155.118,8.9,4,ml,,,,,us,usp0001jj7,2014-11-07T00:30:50.210Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-02-02T16:29:49.860Z,19.216,-155.588,11.4,4.4,ml,,,,,us,usp0001jex,2014-11-07T00:30:48.218Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-01-23T03:45:08.100Z,19.239,-155.569,10.3,4.6,ml,,,,,us,usp0001j7t,2014-11-07T00:30:42.860Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-01-21T23:37:17.410Z,19.23,-155.556,12.4,4.3,ml,,,,,us,usp0001j6x,2014-11-07T00:30:42.238Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-01-21T23:01:09.690Z,19.203,-155.541,10.4,4.4,ml,,,,,us,usp0001j6v,2014-11-07T00:30:42.079Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1982-01-21T22:29:13.880Z,19.218,-155.552,13.7,5.6,mb,,,,,us,usp0001j6t,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,23,reviewed,hvo,us
+1982-01-21T21:52:41.170Z,19.231,-155.592,10.2,5.4,mb,,,,,us,usp0001j6s,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,24,reviewed,hvo,us
+1981-11-20T05:32:57.980Z,19.958,-155.352,10,4.4,ml,,,,,us,usp0001h21,2014-11-07T00:30:24.439Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-11-10T13:02:56.570Z,19.34,-155.212,10.2,5.3,mb,,,,,us,usp0001gwh,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,18,reviewed,hvo,us
+1981-10-28T09:33:32.270Z,19.374,-155.288,32.8,4.2,mb,,,,,us,usp0001gpx,2014-11-07T00:30:16.002Z,"Hawaii region, Hawaii",earthquake,,,,1,reviewed,hvo,us
+1981-10-05T01:42:27.990Z,19.289,-155.512,28.6,4.2,ml,,,,,us,usp0001g9u,2014-11-07T00:30:11.814Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-09-22T16:50:23.720Z,19.323,-155.121,10.2,4,ml,,,,,us,usp0001g1q,2014-11-07T00:30:07.077Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-08-22T22:05:15.000Z,20.075,-156.632,10,4.3,mb,,,,1,us,usp0001feh,2014-11-07T00:29:57.314Z,"Maui region, Hawaii",earthquake,,,,1,reviewed,us,us
+1981-08-10T19:40:34.960Z,19.306,-155.359,4.1,4.7,mb,,,,,us,usp0001f79,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1981-08-10T18:20:08.740Z,19.318,-155.352,4.7,4.4,mb,,,,,us,usp0001f75,2014-11-07T00:29:55.130Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1981-07-28T20:00:44.860Z,19.36,-155.027,8.6,4.4,ml,,,,,us,usp0001ezq,2014-11-07T00:29:49.621Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-07-21T17:59:16.470Z,19.264,-155.452,10.3,4,ml,,,,,us,usp0001euv,2014-11-07T00:29:48.657Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-07-20T16:12:46.410Z,19.329,-155.216,9.6,4.1,ml,,,,,us,usp0001eu1,2014-11-07T00:29:48.429Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-03-16T06:17:19.580Z,19.369,-155.234,31.4,4.3,ml,,,,,us,usp0001cqx,2014-11-07T00:29:04.420Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-03-07T03:56:01.080Z,19.733,-156.36,7.2,4.3,ml,,,,,us,usp0001cjz,2014-11-07T00:29:02.903Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-03-06T02:43:33.890Z,20.917,-157.063,10,4.9,mb,,,,0.7,us,usp0001cjh,2018-06-04T20:43:45.000Z,"Oahu region, Hawaii",earthquake,,,,1,reviewed,us,us
+1981-03-05T14:09:39.880Z,21.017,-156.988,10,5,mb,,,,0.8,us,usp0001chv,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,10,reviewed,us,us
+1981-03-05T01:56:45.690Z,19.414,-155.474,10.8,4.1,ml,,,,,us,usp0001chj,2014-11-07T00:29:02.064Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,hvo,hvo
+1981-03-01T17:01:21.270Z,19.361,-155.035,9,4.7,mb,,,,,us,usp0001cft,2014-11-07T00:29:00.044Z,"Hawaii region, Hawaii",earthquake,,,,2,reviewed,hvo,us
+1981-01-22T13:39:02.500Z,19.777,-156.032,41,4.1,ml,,,,,us,usp0001but,2014-11-06T23:24:28.788Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1981-01-16T00:37:12.000Z,19.325,-155.29,34,4.5,ml,,,,,us,usp0001br8,2014-11-06T23:24:28.681Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1981-01-14T04:20:16.500Z,19.368,-155.324,29,4.5,mb,,,,,us,usp0001bqe,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1981-01-12T21:21:41.200Z,19.52,-155.304,33,4.1,mb,,,,,us,usp0001bpw,2014-11-06T23:24:28.638Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1981-01-12T15:07:48.900Z,19.328,-155.288,33,4.3,ml,,,,,us,usp0001bpq,2014-11-06T23:24:28.633Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1981-01-12T14:30:17.100Z,19.293,-155.305,33,4.4,ml,,,,,us,usp0001bpp,2014-11-06T23:24:28.632Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1981-01-12T14:18:10.600Z,19.356,-155.305,31,4.4,mb,,,,,us,usp0001bpn,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1981-01-07T04:14:05.300Z,18.894,-155.11,52,4.3,ml,,,,,us,usp0001bme,2014-11-06T23:24:28.560Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-11-23T11:31:55.900Z,19.36,-155.05,9,4.2,ml,,,,,us,usp0001axy,2014-11-06T23:24:27.499Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-11-12T21:38:02.000Z,21.186,-157.935,10,4,ml,,,,,us,usp0001asx,2014-11-06T23:24:27.215Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,us,hvo
+1980-10-30T20:29:14.000Z,19.45,-155.21,28,4,ml,,,,,us,usp0001akp,2014-11-06T23:24:27.005Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-10-22T07:48:19.700Z,19.366,-155.113,1,4,ml,,,,,us,usp0001acc,2014-11-06T23:24:26.772Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-08-20T16:06:26.000Z,19.601,-156.149,25,4,ml,,,,,us,usp00019fm,2014-11-06T23:24:25.445Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-08-14T07:27:16.700Z,19.352,-155.42,11,4.1,ml,,,,,us,usp00019d3,2014-11-06T23:24:25.206Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-08-12T06:42:33.100Z,19.333,-155.109,10,4.3,ml,,,,,us,usp00019c2,2014-11-06T23:24:25.169Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-05-05T09:07:37.700Z,19.228,-155.552,11,4,ml,,,,,us,usp000172b,2014-11-06T23:24:21.414Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1980-03-12T12:57:52.700Z,19.358,-155.236,2,4.6,mb,,,,,us,usp00015zc,2014-11-06T23:24:18.991Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1980-03-02T05:38:21.400Z,19.712,-156.895,10,4.2,ml,,,,,us,usp00015t1,2014-11-06T23:24:18.632Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,hvo
+1980-01-20T01:28:48.600Z,19.312,-155.541,27,4.6,ml,,,,,us,usp000152p,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1979-12-14T03:44:03.100Z,19.414,-155.408,11,4.1,ml,,,,,us,usp00014gm,2014-11-06T23:22:08.185Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1979-12-06T01:32:27.200Z,19.408,-155.471,11,4,ml,,,,,us,usp00014br,2014-11-06T23:22:07.975Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1979-10-31T05:35:11.700Z,19.884,-156.343,1,4.1,mb,,,,,us,usp00013ss,2014-11-06T23:22:07.016Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-10-14T17:37:17.500Z,19.906,-155.191,14,4,ml,,,,,us,usp00013dm,2014-11-06T23:22:06.165Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1979-09-27T15:35:45.500Z,19.326,-155.12,10,4.7,mb,,,,,us,usp000135b,2014-11-06T23:22:05.827Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-09-22T09:29:12.400Z,19.353,-155.038,9,4.8,mb,,,,,us,usp0001328,2014-11-06T23:22:05.704Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-09-22T07:59:37.600Z,19.347,-155.072,9,5.7,mb,,,,,us,usp0001325,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-08-14T12:51:42.200Z,20.817,-156.283,25,4.1,mb,,,,,us,usp00012dv,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-07-31T13:30:51.400Z,19.466,-155.433,12,4.5,mb,,,,,us,usp0001261,2014-11-06T23:22:04.377Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-03-30T09:06:40.700Z,20.646,-158.816,19,4.7,mb,,,,,us,usp0000zrs,2018-06-04T20:43:45.000Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,us,us
+1979-03-28T07:30:10.000Z,20.057,-155.821,9,4.4,mb,,,,,us,usp0000zqd,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-03-22T06:46:59.600Z,20.09,-155.839,12,4.6,mb,,,,,us,usp0000zk1,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-03-10T13:55:14.600Z,19.331,-155.11,10,4.8,mb,,,,,us,usp0000z8u,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-03-06T15:07:58.500Z,19.518,-155.27,28,5,mb,,,,,us,usp0000z69,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1979-02-14T02:52:51.000Z,19.34,-155.071,9,4,ml,,,,,us,usp0000yus,2014-11-06T23:21:57.024Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1978-12-27T10:40:56.000Z,19.333,-155.217,10,4.6,mb,,,,,us,usp0000y50,2014-11-06T23:21:55.479Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1978-12-14T14:12:44.900Z,19.32,-155.22,10,4.1,ml,,,,,us,usp0000xxj,2014-11-06T23:21:54.921Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1978-11-23T13:16:15.900Z,19.233,-155.55,11,4.2,ml,,,,,us,usp0000xkh,2014-11-06T23:21:53.995Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1978-10-28T22:37:34.700Z,21.583,-157.75,1,4.1,ml,,,,,us,usp0000x5s,2014-11-06T23:21:53.172Z,"Oahu region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1978-09-12T06:16:06.100Z,19.338,-155.11,10,4.1,ml,,,,,us,usp0000wgx,2014-11-06T23:21:52.106Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1978-08-31T23:07:21.400Z,19.01,-155.481,35,4.5,mb,,,,,us,usp0000wa4,2014-11-06T23:21:51.756Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1978-06-23T11:47:58.600Z,19.323,-155.256,11,4.9,mb,,,,,us,usp0000v8d,2014-11-06T23:21:49.988Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1977-09-23T12:08:44.000Z,19.367,-155.05,10,4.1,ml,,,,,us,usp0000qsf,2014-11-06T23:21:44.321Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-09-19T19:01:45.000Z,19.35,-155.117,5,4.1,ml,,,,,us,usp0000qqs,2014-11-06T23:21:44.268Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-09-16T04:50:06.000Z,19.35,-155.067,8,4,ml,,,,,us,usp0000qp3,2014-11-06T23:21:44.220Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-09-07T23:51:07.000Z,19.367,-155.317,30,4.5,ml,,,,,us,usp0000qj8,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-08-19T18:19:13.400Z,19.337,-155.122,10,4.2,ml,,,,,us,usp0000q6v,2014-11-06T23:21:43.624Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-08-08T07:54:20.300Z,19.34,-155.222,10,4.1,ml,,,,,us,usp0000q0z,2014-11-06T23:21:43.407Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-07-05T17:59:42.000Z,19.428,-155.453,10,4.1,ml,,,,,us,usp0000pme,2014-11-06T23:21:42.866Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-06-06T09:42:18.700Z,19.367,-155.083,8,4.8,mb,,,,,us,usp0000p67,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1977-04-21T04:49:23.000Z,20,-155.333,15,4.5,ml,,,,,us,usp0000nh5,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-03-09T10:29:16.500Z,19.383,-155.517,53,4.1,ml,,,,,us,usp0000mv4,2014-11-06T23:21:40.107Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1977-02-04T01:20:50.000Z,19.4,-155.1,5,4.5,mb,,,,,us,usp0000mf8,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1977-01-23T20:49:01.700Z,19.34,-155.2,9,4.8,mb,,,,,us,usp0000mar,2014-11-06T23:21:39.457Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1977-01-22T22:36:28.500Z,20.94,-160.26,33,4.7,mb,,,,,us,usp0000ma7,2018-06-04T20:43:45.000Z,"Hawaiian Islands region",earthquake,,,,,reviewed,us,us
+1977-01-14T23:26:42.500Z,19.3,-155.1,10,4.2,mb,,,,,us,usp0000m65,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1977-01-08T10:02:38.000Z,19.333,-155.133,10,4.1,ml,,,,,us,usp0000m40,2014-11-06T23:21:39.271Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1976-12-18T14:01:00.500Z,19.337,-155.118,9,5,mb,,,,,us,usp0000ktn,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1976-05-24T09:24:07.800Z,20.995,-156.362,20,4.9,md,,,,,ushis,ushis3407,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1976-04-21T18:13:35.900Z,18.816,-155.032,12,4.5,ml,,,,,ushis,ushis3405,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1976-04-02T18:14:06.000Z,19.4,-155.1,5,4.5,mb,,,,,us,usp0000fr9,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1976-02-21T05:51:13.800Z,20.208,-156.267,33,4.9,mb,,,,,us,usp0000f57,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,us,us
+1976-01-29T20:19:56.000Z,19.4,-155,5,4.5,mb,,,,,us,usp0000ett,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1976-01-15T22:59:24.000Z,19.3,-155.3,30,4.8,mb,,,,,us,usp0000efz,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1976-01-12T00:05:39.000Z,19.3,-155.3,30,4.5,mb,,,,,us,usp0000ed9,2014-11-06T23:21:33.463Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-12-27T08:55:24.000Z,20,-156,30,4.1,ml,,,,,us,usp0000e3n,2014-11-06T23:21:33.078Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-12-03T05:00:07.700Z,19.375,-154.983,1,4.1,ml,,,,,us,usp0000dtr,2014-11-06T23:21:32.867Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-11-30T06:15:27.400Z,19.419,-155.373,12,4.5,ml,,,,,ushis,ushis3385,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1975-11-29T18:43:59.800Z,19.187,-155.285,2,4.9,mb,,,,,us,usp0000dsh,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-11-29T14:47:40.100Z,19.333,-155.0015,8.95,7.7,mw,,,,,official,official19751129144740_9,2018-06-04T20:43:45.000Z,"Kalapana Earthquake",earthquake,10,5,,,reviewed,official,official
+1975-11-29T13:35:40.500Z,19.36,-155.053,8,5.8,mb,,,,,us,usp0000dsa,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-11-10T11:26:29.700Z,19.4,-155,7,4,ml,,,,,us,usp0000dgs,2014-11-06T23:21:32.631Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-11-06T14:02:57.000Z,19.4,-155.3,25,4,ml,,,,,us,usp0000dfb,2014-11-06T23:21:32.509Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-11-06T13:21:19.000Z,19.4,-155.3,25,4,ml,,,,,us,usp0000dfa,2014-11-06T23:21:32.508Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-11-06T12:05:29.000Z,19.4,-155.3,25,4.4,mb,,,,,us,usp0000df8,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-07-09T18:40:03.400Z,19.507,-155.465,7,4.5,ml,,,,,us,usp0000byk,2014-11-06T23:21:31.154Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-07-09T15:47:42.700Z,19.515,-155.46,7,4.3,ml,,,,,us,usp0000byj,2014-11-06T23:21:31.153Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-07-09T06:07:02.600Z,19.512,-155.458,6,4.1,ml,,,,,us,usp0000by8,2014-11-06T23:21:31.146Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-07-08T04:39:52.200Z,19.526,-155.462,9,4.2,ml,,,,,us,usp0000bxu,2014-11-06T23:21:31.137Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,hvo
+1975-07-06T09:25:45.900Z,19.432,-155.639,4,4.4,ml,,,,,us,usp0000bx7,2014-11-06T23:21:31.125Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-07-06T09:18:18.300Z,19.447,-155.603,1,4.3,ml,,,,,us,usp0000bx6,2014-11-06T23:21:31.125Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-07-05T03:40:55.100Z,19.353,-155.315,28,4.2,ml,,,,,us,usp0000bwm,2014-11-06T23:21:31.113Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1975-05-28T12:01:54.600Z,18.066,-153.74,33,4.6,mb,,,,,us,usp0000b7d,2018-06-04T20:43:45.000Z,"Hawaiian Islands region",earthquake,,,,,reviewed,us,us
+1975-05-22T08:32:58.700Z,20.302,-155.647,22,4.4,mb,,,,,us,usp0000b4d,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-03-30T00:56:26.500Z,19.283,-155.374,6,4.6,md,,,,,ushis,ushis3333,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1975-01-07T03:47:03.000Z,19.3,-155.4,5,4.4,mb,,,,,us,usp00009dx,2014-11-06T23:21:28.281Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-05T01:32:06.800Z,19.519,-155.689,10,5.3,ms,,,,,us,usp00009da,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,us
+1975-01-04T06:35:52.000Z,19.3,-155.1,8,4.3,mb,,,,,us,usp00009d1,2014-11-06T23:21:28.247Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-03T17:32:48.100Z,19.162,-155.716,10,4.7,mb,,,,,us,usp00009cv,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,us
+1975-01-02T13:27:45.000Z,19.2,-155.4,5,4.5,mb,,,,,us,usp00009ca,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-02T09:27:58.000Z,19.2,-155.4,5,4.7,mb,,,,,us,usp00009c9,2014-11-06T23:21:28.219Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T20:46:49.000Z,19.2,-155.4,5,4.5,mb,,,,,us,usp00009bz,2014-11-06T23:21:28.208Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T19:46:45.000Z,19.2,-155.4,5,4.9,mb,,,,,us,usp00009bx,2014-11-06T23:21:28.205Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T13:44:36.300Z,19.071,-155.854,10,4.7,mb,,,,,us,usp00009bu,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,us
+1975-01-01T13:20:54.500Z,19.475,-155.58,10,5.3,ms,,,,,us,usp00009bs,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,us
+1975-01-01T13:18:59.600Z,19.059,-155.899,10,4.5,mb,,,,,us,usp00009br,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,us
+1975-01-01T12:41:11.000Z,19.2,-155.4,5,4.7,mb,,,,,us,usp00009bp,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T11:02:07.000Z,19.2,-155.4,5,4.7,mb,,,,,us,usp00009bj,2014-11-06T23:21:28.190Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T07:41:55.000Z,19.3,-155.4,5,4.2,mb,,,,,us,usp00009bg,2014-11-06T23:21:28.187Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T06:43:54.000Z,19.3,-155.3,5,4.5,mb,,,,,us,usp00009be,2014-11-06T23:21:28.184Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1975-01-01T01:28:59.000Z,19.1,-155.4,40,4,mb,,,,,us,usp00009ba,2014-11-06T23:21:28.179Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-12-31T22:40:47.800Z,19.29,-155.36,5,5.5,mb,,,,,us,usp00009b5,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-12-30T03:22:10.600Z,19.32,-155.28,29,4.1,ml,,,,,us,usp00009a5,2014-11-06T23:21:28.062Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-12-29T05:24:23.500Z,19.35,-155.09,7,4.2,ml,,,,,us,usp000099v,2014-11-06T23:21:28.051Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-12-26T04:24:14.100Z,19.22,-155.3,5,4.4,ml,,,,,us,usp000098n,2014-11-06T23:21:28.002Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-12-26T04:17:10.200Z,19.23,-155.29,5,4.1,ml,,,,,us,usp000098m,2014-11-06T23:21:28.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-12-26T04:13:20.600Z,19.22,-155.29,5,4.3,ml,,,,,us,usp000098k,2014-11-06T23:21:27.999Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-12-25T17:47:49.500Z,19.32,-155.283,28,4.5,mb,,,,,us,usp000098d,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-12-21T18:18:03.900Z,19.38,-155.44,8,4.2,ml,,,,,us,usp000096x,2014-11-06T23:21:27.933Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,us,hvo
+1974-12-16T09:17:29.400Z,19.39,-155.42,8,5,mb,,,,,us,usp0000952,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-12-15T20:53:47.400Z,19.45,-155.59,4,4.3,mb,,,,,us,usp000094t,2014-11-06T23:21:27.849Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-12-08T01:14:27.800Z,19.4,-155.44,8,4.3,ml,,,,,us,usp000091h,2014-11-06T23:21:27.724Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-11-30T13:54:23.400Z,19.417,-155.4,7,5.5,ms,,,,,us,usp00008y9,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-11-10T11:53:14.700Z,19.4,-155.41,8,4.1,ml,,,,,us,usp00008ra,2014-11-06T23:21:27.352Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-10-31T20:01:48.900Z,19.37,-155.08,5,4,ml,,,,,us,usp00008mq,2014-11-06T23:21:27.087Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-10-15T18:38:05.300Z,19.42,-155.49,8,4,ml,,,,,us,usp00008e3,2014-11-06T23:21:26.857Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-08-28T07:49:40.700Z,19.333,-155.21,7,4.8,mb,,,,,us,usp00007tv,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-08-08T11:12:59.500Z,19.35,-155.3,27,4.2,mb,,,,,us,usp00007h8,2014-11-06T23:21:25.700Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-07-20T02:41:48.000Z,19.8,-155.56,26,4,ml,,,,,us,usp000077y,2014-11-06T23:21:25.321Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-06-21T06:50:26.400Z,19.33,-155.214,7,4.3,mb,,,,,us,usp00006tv,2014-11-06T23:21:24.814Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-06-19T15:05:42.400Z,19.36,-155.4,8,5.1,mb,,,,,us,usp00006t4,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-06-03T23:02:09.100Z,19.42,-155.43,8,4.1,ml,,,,,us,usp00006mn,2014-11-06T23:21:24.527Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-05-05T11:37:23.900Z,19.34,-155.26,13,4.4,mb,,,,,us,usp000067w,2014-11-06T23:21:24.087Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-04-25T12:06:55.100Z,19.32,-155.22,8,4,ml,,,,,us,usp000063f,2014-11-06T23:21:23.940Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-04-04T21:42:15.300Z,19.35,-155.27,26,4,ml,,,,,us,usp00005vc,2014-11-06T23:21:23.595Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-03-28T08:58:53.600Z,18.91,-155.54,42,4,ml,,,,,us,usp00005sh,2014-11-06T23:21:23.495Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-02-05T04:16:54.000Z,19.54,-155.9,8,4.1,mb,,,,,us,usp0000568,2014-11-06T23:21:22.710Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1974-01-16T08:06:46.500Z,19.78,-155.6,36,4.4,ml,,,,,us,usp00004y2,2014-11-06T23:21:22.423Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1974-01-12T16:04:33.900Z,19.343,-155.034,7,4.8,mb,,,,,us,usp00004x4,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-12-13T14:25:56.100Z,19.357,-155.292,30,4.4,mb,,,,,us,usp00004hg,2014-11-06T23:21:21.832Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-12-13T04:25:56.100Z,19.374,-155.292,35,4.4,mb,,,,,ushis,ushis3259,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1973-10-13T16:11:10.400Z,20.625,-155.915,2,4.3,mb,,,,,us,usp00003tr,2014-11-06T23:21:20.908Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-10-09T12:01:00.600Z,19.333,-155.283,27,4.8,mb,,,,,us,usp00003s2,2014-11-06T23:21:20.742Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-10-09T11:53:45.000Z,19.333,-155.283,27,4.8,mb,,,,,us,usp00003s1,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-04-26T20:26:28.000Z,19.933,-155.1,50,6.1,ms,,,,,us,usp00001kh,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1973-04-24T16:16:21.900Z,19.917,-155.733,40,4.2,ml,,,,,us,usp00001hs,2014-11-06T23:21:12.062Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,hvo
+1973-04-23T07:07:53.000Z,19.967,-154.667,30,4.2,mb,,,,,us,usp00001h6,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,h,us
+1972-12-23T20:43:07.000Z,19.578,-155.936,15,4.6,ml,,,,,ushis,ushis3216,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1972-12-23T19:04:52.700Z,19.589,-155.926,15,4.9,mb,,,,,ushis,ushis3215,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1972-09-05T11:31:33.800Z,19.331,-155.206,10,4.4,mb,,,,,ushis,ushis3205,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1972-07-14T19:36:57.700Z,19.033,-155.33,38,4.5,ml,,,,,ushis,ushis3195,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1972-02-29T22:08:23.900Z,19.36,-156.351,8,4.9,mb,,,,,ushis,ushis3187,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1971-12-29T11:38:43.100Z,19.249,-155.363,7,4.6,ml,,,,,ushis,ushis3179,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1971-12-29T02:59:12.000Z,19.248,-155.382,8,4.6,ml,,,,,ushis,ushis3178,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1971-12-28T01:11:51.800Z,19.262,-155.372,5,4.7,ml,,,,,ushis,ushis3177,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1971-08-16T01:35:09.100Z,19.367,-155.278,34,4.5,mb,,,,,ushis,ushis3169,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1971-08-01T18:52:39.500Z,18.402,-154.545,7,4.8,mb,,,,,ushis,ushis3168,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1970-10-25T19:55:29.100Z,21.146,-156.612,11,4.5,mb,,,,,ushis,ushis3118,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1970-09-21T11:26:36.500Z,19.332,-155.203,11,4.5,ml,,,,,ushis,ushis3117,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1969-05-10T01:33:28.000Z,19.359,-155.073,13,4.9,mb,,,,,ushis,ushis3041,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1968-04-28T14:08:59.000Z,19.375,-155.298,30,4.7,mb,,,,,ushis,ushis2999,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1968-02-22T19:20:41.700Z,19.223,-156.297,5,4.5,ml,,,,,ushis,ushis2990,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1967-07-22T07:34:11.900Z,20.753,-156.121,8,4.6,ml,,,,,ushis,ushis2971,2018-06-04T20:43:45.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1966-09-05T16:33:22.100Z,19.353,-155.437,8,4.7,mb,,,,,ushis,ushis2922,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1966-08-19T15:21:40.500Z,18.537,-155.087,51,4.6,ml,,,,,ushis,ushis2917,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1965-02-13T23:06:30.400Z,18.754,-155.314,15,4.6,ml,,,,,ushis,ushis2783,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1964-12-10T11:53:45.400Z,19.266,-155.139,8,5.1,mb,,,,,ushis,ushis2733,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1964-12-03T08:28:41.000Z,19.405,-155.277,25,4.7,mb,,,,,ushis,ushis2732,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1964-10-11T10:06:44.400Z,18.856,-156.517,6,5.3,mb,,,,,ushis,ushis2726,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1964-09-18T10:25:30.900Z,19.315,-155.115,5,4.8,mb,,,,,ushis,ushis2720,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1963-10-23T20:24:07.100Z,19.376,-155.416,9,5,mb,,,,,ushis,ushis2630,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1963-09-21T16:24:21.400Z,19.428,-155.823,6,4.6,mb,,,,,ushis,ushis2624,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1963-08-26T18:49:19.900Z,19.375,-155.37,6,4.4,mb,,,,,ushis,ushis2619,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,us
+1963-01-08T19:39:45.000Z,19.39,-155.218,31,4.6,ml,,,,,ushis,ushis2589,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1962-07-25T03:48:16.200Z,19.54,-155.961,2,4.7,ml,,,,,ushis,ushis2560,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1962-06-28T04:27:15.800Z,19.399,-155.454,10,6.1,ml,,,,,ushis,ushis2553,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1962-02-11T02:00:49.700Z,19.224,-154.398,3,4.5,ml,,,,,ushis,ushis2538,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1961-09-25T05:28:54.500Z,19.302,-154.998,9,4.5,ml,,,,,ushis,ushis2520,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1961-09-23T03:01:34.700Z,19.32,-155.113,4,4.5,ml,,,,,ushis,ushis2518,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1961-07-23T15:24:16.500Z,19.377,-155.282,26,4.6,ml,,,,,ushis,ushis2503,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1961-01-21T11:39:37.200Z,19.225,-155.666,10,4.6,ml,,,,,ushis,ushis2481,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1960-12-25T12:56:28.200Z,19.222,-155.764,1,4.5,ml,,,,,ushis,ushis2473,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1960-01-19T04:26:50.800Z,19.32,-155.67,7,4.5,ml,,,,,ushis,ushis2432,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1959-02-20T06:00:28.000Z,19.35,-155.15,5,4.5,ml,,,,,ushis,ushis2359,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1958-12-27T19:17:24.000Z,19.783,-155.117,45,4.5,ml,,,,,ushis,ushis2350,2018-06-04T20:43:45.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1957-08-18T10:41:56.000Z,21.8,-155.467,10,5.6,ml,,,,,ushis,ushis2254,2018-06-04T20:43:44.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1957-07-26T11:40:30.000Z,20.25,-156.083,5,4.6,ml,,,,,ushis,ushis2251,2018-06-04T20:43:44.000Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1957-07-04T10:53:59.000Z,19.8,-155.7,15,4.5,ml,,,,,ushis,ushis2248,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1956-10-16T10:44:55.000Z,19.667,-156.467,25,5.5,ml,,,,,ushis,ushis2105,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1956-05-14T07:53:36.000Z,20.283,-155.283,20,4.5,ml,,,,,ushis,ushis2092,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-08-14T12:28:00.000Z,19.313,-155.285,29,5.7,ml,,,,,ushis,ushis2055,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-04-01T14:24:26.500Z,19.407,-155.305,10,5.2,ml,,,,,ushis,ushis2026,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-03-08T08:21:27.900Z,19.335,-154.997,,5.4,ml,,,,,ushis,ushis2018,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1954-07-03T21:52:35.000Z,19.4,-155.2,12,5.4,ml,,,,,ushis,ushis1940,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1954-03-30T18:41:56.000Z,19.353,-155.02,9,6.5,uk,,,,,ushis,ushis1930,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,pas
+1954-03-30T16:40:02.000Z,19.38,-155.025,9,6,ms,,,,,ushis,ushis1929,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,pas
+1953-01-15T12:05:00.000Z,19.317,-155.433,24,5.2,ms,,,,,ushis,ushis1880,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,brk
+1952-05-23T22:12:26.000Z,19.483,-155.983,10,6,ms,,,,,ushis,ushis1781,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,pas
+1951-08-21T10:56:58.500Z,19.483,-155.967,,6.9,ms,,,,,ushis,ushis1750,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,gr
+1951-04-23T00:52:23.000Z,19.2,-155.5,,6.5,ms,,,,,ushis,ushis1739,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,pas
+1950-05-30T01:16:15.000Z,19.5,-156,,6.25,ms,,,,,ushis,ushis1695,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,gr
